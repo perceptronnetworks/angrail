@@ -7,15 +7,18 @@ get_header();
 <main id="primary" class="site-main">
 <body id="top">
 
-<div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/01.png');">
+<div class="wrapper bgded overlay" style="background-image:url(' /wp-content/uploads/2021/09/baim-hanif-pYWuOMhtc6k-unsplash-scaled.jpg');">
   <div id="pageintro" class="hoc clear"> 
     <article>
-      <h3 class="heading">Pellentesque risus nulla</h3>
-      <p>Fringilla sed posuere et dignissim non ipsum cras euismod urna non neque auctor dignissim nulla mattis purus donec sed lorem eget nibh sagittis</p>
+    <h3 class="hometop_heading" style="text-align:center;">Creating NexGen Scientists, Researchers and Inventors.</h3>
+    <section class="homepage_slide" style="display:flex;">
+      <div class="two_quarter"><img src=" /wp-content/uploads/2021/09/APJ-Quote.jpg"></div>
+      <div class="one_half"><h6>Why Choose Us</h6><br><p>At ANGRAIL, we provide  state of the at research establishment and services to create an envoronment for  learners and scientist across the globe.</p></div>
+   </section>
         <footer>
             <ul class="nospace inline pushright">
-            <li><a class="btn" href="#">Dictum aenean</a></li>
-            <li><a class="btn inverse" href="#">Nunc molestie</a></li>
+            <li><a class="btn inverse" href="#">About Us</a></li>
+            <li><a class="btn inverse" href="#">Contact Us</a></li>
             </ul>
         </footer>
     </article>
@@ -29,20 +32,20 @@ get_header();
     <ul class="nospace group">
       <li class="one_third first">
         <article><a href="#"><i class="fas fa-hand-peace"></i></a>
-          <h6 class="heading underline">Sapien tempor placerat</h6>
-          <p>Luctus mauris lectus elementum nulla ac consectetuer sapien leo et arcu maecenas auctor viverra magna sed.</p>
+          <h6 class="heading underline">Creativity</h6>
+          <p>Our carefully designed labs, project metholodgies and courses will ignite the creativity among learners.</p>
         </article>
       </li>
       <li class="one_third">
         <article class="active"><a href="#"><i class="fas fa-microphone"></i></a>
-          <h6 class="heading underline">Blandit urna fusce</h6>
-          <p>In augue blandit ligula pharetra mattis vestibulum congue enim aenean felis augue pretium semper imperdiet.</p>
+          <h6 class="heading underline">Research</h6>
+          <p>Our pool of international experts  across the globe has proven track records. Our network creates an international research standards in higher learning institutes and industries.</p>
         </article>
       </li>
       <li class="one_third">
         <article><a href="#"><i class="fas fa-moon"></i></a>
-          <h6 class="heading underline">Quis euismod malesuada</h6>
-          <p>Purus morbi ut risus nec orci bibendum commodo phasellus fringilla pede vitae tincidunt congue nibh lobortis.</p>
+          <h6 class="heading underline">Innovation</h6>
+          <p>Our curriculum and pedagogy are carefully designed after years of research. This makes the learners highly innovative and focused.</p>
         </article>
       </li>
     </ul>
@@ -55,56 +58,41 @@ get_header();
       <h6 class="heading underline font-x2">Products and Services</h6>
     </div>
     <ul class="nospace group overview btmspace-80 ">
-      <li class="one_third">
+      <li class="one_half first">
         <article>
-          <div class="clear"><a href="#"><i class="fas fa-motorcycle"></i></a>
-            <h6 class="heading">Eleifend augue</h6>
+          <div class="clear"><a href="#"><img width="150px" height="150px" src=" /wp-content/uploads/2021/09/How-Creative-Design-Agencies-Benefit-your-Business.jpg"></a>
+            <h6 class="heading">Research Labs</h6>
           </div>
-          <p>Sit amet turpis nulla congue augue lectus quis est ante non mi fusce euismod etiam augue aenean ullamcorper.</p>
+          <p>ANGRAIL offers state of the art and high quality Research and Special Labs to the institutiosn. It also provides institutions with the access to Virtual Labs, Remote Labs and Hybrid Labs.</p>
         </article>
       </li>
-      <!-- <li class="one_third">
+      <li class="one_half">
         <article>
-          <div class="clear"><a href="#"><i class="fas fa-newspaper"></i></a>
-            <h6 class="heading">Consectetuer euismod</h6>
+          <div class="clear"><a href="#"><img width="150px" height="150px" src=" /wp-content/uploads/2021/09/ghnw20161103-080802-528.jpg"></i></a>
+            <h6 class="heading">Projects</h6>
           </div>
-          <p>Neque pellentesque bibendum duis ut est quis nisl consequat gravida nulla facilisi nullam feugiat mauris enim.</p>
-        </article>
-      </li> -->
-      <li class="one_third">
-        <article>
-          <div class="clear"><a href="#"><i class="fas fa-paper-plane"></i></a>
-            <h6 class="heading">Condimentum vitae</h6>
-          </div>
-          <p>Ut luctus velit vel eleifend luctus quam ante interdum nibh non sollicitudin enim mi viverra est aenean blandit.</p>
+          <p>ANGRAIL accomplishes end to end project needs such as problem identification, mentoring, defining the problem, carry out the project, documenting, fabrication, presenting, publishing and patenting.</p>
         </article>
       </li>
-      <li class="one_third">
+      <li class="one_half">
         <article>
-          <div class="clear"><a href="#"><i class="fas fa-eye"></i></a>
-            <h6 class="heading">Praesent elementum</h6>
+          <div class="clear"><a href="#"><img width="150px" height="150px" src=" /wp-content/uploads/2021/09/pexels-polina-tankilevitch-3735782-scaled.jpg"></i></a>
+            <h6 class="heading">Services</h6>
           </div>
-          <p>Fusce ut felis nulla facilisi aliquam erat volutpat morbi fermentum mauris a nunc ut non lectus nunc aliquam est.</p>
+          <p>ANGRAIL offers the state of the art services to schools, colleges, universities, industries and individuals to create Research, Creativity and Innovation among learners. </p>
         </article>
       </li>
-      <!-- <li class="one_third">
+      <li class="one_half">
         <article>
-          <div class="clear"><a href="#"><i class="fas fa-leaf"></i></a>
-            <h6 class="heading">Posuere curabitur</h6>
+          <div class="clear"><a href="#"><img width="150px" height="150px" src=" /wp-content/uploads/2021/09/pexels-karolina-grabowska-4491461-scaled.jpg"></i></a>
+            <h6 class="heading">Courses</h6>
           </div>
-          <p>Non nisi sed erat diam hendrerit ut auctor sed vulputate at purus vestibulum eget lorem at tortor tristique.</p>
-        </article>
-      </li> -->
-      <li class="one_third">
-        <article>
-          <div class="clear"><a href="#"><i class="fas fa-power-off"></i></a>
-            <h6 class="heading">Malesuada fames</h6>
-          </div>
-          <p>Semper nulla adipiscing mi sed rutrum fringilla mauris libero posuere lectus eleifend pretium purus vestibulum.</p>
+          <p>ANGRAIL offers online, offline and blended courses in trending topics across all domains such as arts, Science, Engineering, Education, Management, Agriculture, Animal Husbandry, Medical and Allied Sciences</p>
         </article>
       </li>
+      
     </ul>
-    <footer class="center"><a class="btn" href="#">Semper ullamcorper</a></footer>
+    <footer class="center"><a class="btn inverse" href="#">View all Services</a></footer>
     <!-- / main body -->
     <div class="clear"></div>
   </main>
@@ -168,7 +156,7 @@ get_header();
   </section>
 </div> -->
 
-<div class="wrapper row3">
+<!-- <div class="wrapper row3">
   <section class="hoc container clear"> 
     <div class="center btmspace-80">
       <h6 class="heading underline font-x2">Hendrerit ligula eu diam</h6>
@@ -225,7 +213,7 @@ get_header();
     </ul>
    
   </section>
-</div>
+</div> -->
 
 <a id="backtotop" href="#top"><i class="fas fa-chevron-up"></i></a>
 </body>

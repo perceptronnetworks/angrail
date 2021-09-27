@@ -7,6 +7,7 @@
     </div>
     <div class="one_quarter">
       <h6 class="heading">Our Services</h6>
+      <nav class="sdb_holder">
       <ul class="footer_links" style="column-count:2;">
       <li><a href="#">Research labs</a></li>
       <li><a href="#">Projects</a></li>
@@ -28,6 +29,7 @@
              </li>
         </li>
       </ul>
+</nav>
     </div>
     <div class="one_quarter">
       <h6 class="heading">Contact Us</h6>
