@@ -15,7 +15,7 @@ get_header();
   <div class="hoc page-container clear"> 
     <div class="content about_align"> 
     <div class="one_half">
-            <img src="wp-content/uploads/2021/09/campaign-creators-gMsnXqILjp4-unsplash-scaled.jpg">
+            <img src="/wp-content/uploads/2021/09/campaign-creators-gMsnXqILjp4-unsplash-scaled.jpg">
     </div>
     <div class="one_half">
     <p>For solving any real-world problem, one required in-depth knowledge of a specific subject. Our courses are the gateway for acquiring knowledge and skills. We offer online, offline and blended courses in trending topics across all domains such as arts, Science, Engineering, Education, Management, Agriculture, Animal Husbandry, Medical and Allied Sciences.</p>

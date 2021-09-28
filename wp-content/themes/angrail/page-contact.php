@@ -16,7 +16,7 @@ get_header();
   <div class="hoc page-container clear"> 
     <div class="content contact_align"> 
     <div class="two_quarter">
-        <img src="wp-content/uploads/2021/09/melinda-gimpel-5Ne6mMQtIdo-unsplash-scaled.jpg">
+        <img src="/wp-content/uploads/2021/09/melinda-gimpel-5Ne6mMQtIdo-unsplash-scaled.jpg">
         </div>
       <div class="two_quarter">
           <div class="address">
