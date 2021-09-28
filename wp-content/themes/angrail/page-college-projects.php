@@ -15,7 +15,7 @@ get_header();
 
 <div class="wrapper row3">
   <div class="hoc page-container clear"> 
-    <div class="content about_align">
+    <div class="content ">
     <p>Richard Branson once said, "The best way of learning about anything is by doing." The project works in college is always an exciting thing to DO for a student. We support all college project needs for UG, PG and PhD. We support all the domains in Arts, Science, Engineering, Education, Management, Agriculture, Animal Husbandry, Medical and Allied Sciences. </p>
 
     <p>We also offer comprehensive Research Support and Services for PhD scholars across all domains. We have international connections and MoUs with leading Journal Publishers, such as Athenaeum Publishers, Elsevier, Springer, etc. Our international high-level expert team with interns and mentors shall support the PhD scholars with every need in all phases of the research work. </p>
