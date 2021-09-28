@@ -8,25 +8,26 @@
     <div class="one_quarter">
       <h6 class="heading">Our Services</h6>
       <nav class="sdb_holder">
-      <ul class="footer_links" style="column-count:2;">
-      <li><a href="#">Research labs</a></li>
-      <li><a href="#">Projects</a></li>
-      <li><a href="#">Online Courses</a></li>
-      <li><a class="drop" href="#">Services:</a>
-          <ul>
+      <ul class="footer_links parent_menu">
+        <li><a href="#">Research labs</a></li>
+        <li><a href="#">Projects</a></li>
+        <li><a href="#">Online Courses</a></li>
+        <li class="has_child"><a class="drop" href="#">Services</a>
+          <ul class="child_menu">
             <li><a href="#">Online Courses</a></li>
             <li><a href="#">Patent & IPR</a></li>
             <li><a href="#">Train the Trainer</a></li>
             <li><a href="#">Students Training</a></li>
             <li><a href="#">Internship</a></li>
-            <li><a class="drop" href="#">Sales & Services</a>
+            <li class="has_child"><a class="drop" href="#">Sales & Services</a>
+              <ul class="child_menu">
+                <li><a href="#">Project Kits</a></li>
+                <li><a href="#">Project Components</a></li>
+                <li><a href="#">Laboratory Equipments</a></li>
+                <li><a href="#">ICT Equipment Sales & Services</a></li>
+              </ul>
+            </li>
           </ul>
-            <li><a href="#">Project Kits</a></li>
-            <li><a href="#">Project Components</a></li>
-            <li><a href="#">Laboratory Equipments</a></li>
-            <li><a href="#">ICT Equipment Sales & Services</a></li>
-             </ul>
-             </li>
         </li>
       </ul>
 </nav>

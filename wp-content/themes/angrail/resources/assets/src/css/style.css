@@ -1046,7 +1046,7 @@ footer
 */
 footer {
   text-align: center;
-  padding: 30px 0px;
+  padding: 30px 0px 0px 0px;
   margin-top: 5%;
 }
 
@@ -1340,4 +1340,23 @@ margin-top: 70px;
 .page-container .contact_align a
 {
   color: #000;
+}
+ul.footer_links.parent_menu ul.child_menu {
+  display: none;
+}
+ul.footer_links.parent_menu {
+  display: flex;
+  flex-direction: column;
+}
+li.has_child:hover > ul.child_menu {
+  display: flex;
+  flex-direction: column;
+  padding-left: 15px;
+}
+@media only screen and (max-width: 1024px) {
+  .homepage_slide {
+    flex-direction: column;
+    align-items: center;
+}
+
 }

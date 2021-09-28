@@ -15,6 +15,9 @@ get_header();
 <div class="wrapper row3">
   <div class="hoc page-container clear"> 
     <div class="content contact_align"> 
+    <div class="two_quarter">
+        <img src="/angrail/wp-content/uploads/2021/09/melinda-gimpel-5Ne6mMQtIdo-unsplash-scaled.jpg">
+        </div>
       <div class="two_quarter">
           <div class="address">
               <h5>Address</h5>
@@ -35,9 +38,7 @@ get_header();
         </div>
       
 
-        <div class="two_quarter">
-           <?php echo do_shortcode('[contact-form-7 id="72" title="Contact us Page"]'); ?>
-        </div>
+        
         
       
     </div>

@@ -15,7 +15,7 @@ get_header();
   <main class="hoc page-container clear"> 
     <div class="content about_align"> 
         <div class="two_quarter">
-            <img src=" /wp-content/uploads/2021/09/porter-raab-gnj9vj-FRY-unsplash-1-scaled.jpg">
+            <img src=" /angrail/wp-content/uploads/2021/09/porter-raab-gnj9vj-FRY-unsplash-1-scaled.jpg">
         </div>
         <div class="two_quarter">
             <h2>Search of Knowledge</h2>
@@ -38,7 +38,7 @@ get_header();
         </div>
 
         <div class="two_quarter">
-            <img src=" /wp-content/uploads/2021/09/pexels-karolina-grabowska-4491461-scaled.jpg">
+            <img src=" /angrail/wp-content/uploads/2021/09/pexels-karolina-grabowska-4491461-scaled.jpg">
         </div>
         
       
