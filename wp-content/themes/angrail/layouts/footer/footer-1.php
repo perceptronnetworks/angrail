@@ -12,14 +12,14 @@
         <li><a href="#">Research labs</a></li>
         <li><a href="#">Projects</a></li>
         <li><a href="#">Online Courses</a></li>
-        <li class="has_child"><a class="drop" href="#">Services</a>
+        <li class="has_child"><a class="drop">Services</a>
           <ul class="child_menu">
             <li><a href="#">Online Courses</a></li>
             <li><a href="#">Patent & IPR</a></li>
             <li><a href="#">Train the Trainer</a></li>
             <li><a href="#">Students Training</a></li>
             <li><a href="#">Internship</a></li>
-            <li class="has_child"><a class="drop" href="#">Sales & Services</a>
+            <li class="has_child"><a class="drop">Sales & Services</a>
               <ul class="child_menu">
                 <li><a href="#">Project Kits</a></li>
                 <li><a href="#">Project Components</a></li>

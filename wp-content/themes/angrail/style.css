@@ -728,4 +728,42 @@ list-style: disc;
 #introblocks .one_third {
     width: auto;
 }
+footer#footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+footer#footer .one_quarter {
+    width: 65%;
+    padding-bottom: 40px;
+}
+ul.home-grid li {
+    width: 80%;
+    margin-left: 0 !important;
+    margin-right: 0;
+    padding-bottom: 40px;
+}
+ul.home-grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+ul.home-grid.overview article {
+    text-align: center;
+}
+}
+@media only screen and (min-width: 978px) {
+	#mainav li a {
+		padding: 30px 5px;
+	}
+	#mainav {
+		width: 78%;
+	}
+	#mainav ul#menu-primary-menu {
+		display: flex;
+		justify-content: space-between;
+	}
+	#header #logo {
+		margin: 15px 0 0 0;
+	}
 }

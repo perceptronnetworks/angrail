@@ -60,7 +60,7 @@ get_header();
     <div class="center btmspace-80">
       <h6 class="heading underline font-x2">Products and Services</h6>
     </div>
-    <ul class="nospace group overview btmspace-80 ">
+    <ul class="nospace group overview btmspace-80 home-grid">
       <li class="one_half first">
         <article>
           <div class="clear"><a href="#"><img width="150px" height="150px" src=" /angrail/wp-content/uploads/2021/09/How-Creative-Design-Agencies-Benefit-your-Business.jpg"></a>
