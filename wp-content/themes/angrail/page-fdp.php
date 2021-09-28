@@ -18,7 +18,6 @@ get_header();
         
     <div class="two_quarter">
         <img src="/wp-content/uploads/2021/09/dylan-gillis-KdeqA3aTnBY-unsplash-scaled.jpg">
-        </div>
     </div>
     
       <div class="two_quarter">
@@ -27,6 +26,7 @@ get_header();
     <p>By attending this FDP, we want the faculty/researcher/industry professional to gain complete knowledge and skills on the particular topic.</p>
 
     </div>
+</div>
     
     <div class="clear"></div>
 </div>

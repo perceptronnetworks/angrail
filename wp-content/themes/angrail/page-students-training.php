@@ -17,10 +17,11 @@ get_header();
     <div class="content about_align">
     <div class="two_quarter">
         <img src="/wp-content/uploads/2021/09/dylan-gillis-KdeqA3aTnBY-unsplash-scaled.jpg">
-        </div>
+        
     </div>
       <div class="two_quarter">
     <p>Our training models have online, offline and blended ways of delivery. We train students from colleges and schools collaboratively. Students enrolled in our training program will get access to our webinars and workshops. We have various Virtual (software) and Remote Labs (remotely operated physical labs) facilities located across multiple regions globally. This will also be enabled for the enrolled students. </p>
+    </div>
     </div>
     <div class="clear"></div>
 </div>

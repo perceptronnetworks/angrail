@@ -17,7 +17,7 @@ get_header();
     <div class="content about_align">
     <div class="two_quarter">
         <img src="/wp-content/uploads/2021/09/dylan-gillis-KdeqA3aTnBY-unsplash-scaled.jpg">
-        </div>
+
     </div>
       <div class="two_quarter">
       <p>Children's skills are always like a seed. We will never know what will start to germinate from them until it comes out. Projects are one such activity in schools that will manifest the unique skill of the student. We wanted to encourage learning by doing culture among the students to equip themselves for the next generation technological needs.</p>
@@ -35,7 +35,7 @@ get_header();
 
     <h6>Cut Out Models</h6>
     <p>Cut out models is the activity that will enable the school kids to apply their creativity. As we know, the cognitive skills of a kid will be entirely different for kids, and the cutout model is the starting point for manifesting the kid's talent. Out creative and straightforward to do cut out models will be exciting and fun. </p>
-
+    </div>
     </div>
     <div class="clear"></div>
 </div>
