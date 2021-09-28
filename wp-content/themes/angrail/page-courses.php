@@ -6,7 +6,7 @@ get_header();
 ?>
 <main id="primary" class="site-main">
 <body id="top">
-<div class="wrapper bgded overlay" style="background-image:url('../images/demo/backgrounds/01.png');">
+<div class="wrapper bgded overlay" style="background-image:url('/wp-content/uploads/2021/09/pagetitlebar.jpg');">
   <div id="breadcrumb" class="hoc clear"> 
       <h2><?php echo get_the_title(); ?></h2>
   </div>
