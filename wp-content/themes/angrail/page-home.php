@@ -7,12 +7,12 @@ get_header();
 <main id="primary" class="site-main">
 <body id="top">
 
-<div class="wrapper bgded overlay" style="background-image:url(' /angrail/wp-content/uploads/2021/09/baim-hanif-pYWuOMhtc6k-unsplash-scaled.jpg');">
+<div class="wrapper bgded overlay" style="background-image:url('wp-content/uploads/2021/09/baim-hanif-pYWuOMhtc6k-unsplash-scaled.jpg');">
   <div id="pageintro" class="hoc clear"> 
     <article>
     <h3 class="hometop_heading" style="text-align:center;">Creating NexGen Scientists, Researchers and Inventors.</h3>
     <section class="homepage_slide" style="display:flex;">
-      <div class="two_quarter"><img src=" /angrail/wp-content/uploads/2021/09/APJ-Quote.jpg"></div>
+      <div class="two_quarter"><img src="wp-content/uploads/2021/09/APJ-Quote.jpg"></div>
       <div class="one_half"><h6>Why Choose Us</h6><br><p>At ANGRAIL, we provide  state of the at research establishment and services to create an envoronment for  learners and scientist across the globe.</p></div>
    </section>
         <!-- <footer>
@@ -63,7 +63,7 @@ get_header();
     <ul class="nospace group overview btmspace-80 home-grid">
       <li class="one_half first">
         <article>
-          <div class="clear"><a href="#"><img width="150px" height="150px" src=" /angrail/wp-content/uploads/2021/09/How-Creative-Design-Agencies-Benefit-your-Business.jpg"></a>
+          <div class="clear"><a href="#"><img width="150px" height="150px" src="wp-content/uploads/2021/09/How-Creative-Design-Agencies-Benefit-your-Business.jpg"></a>
             <h6 class="heading">Research Labs</h6>
           </div>
           <p>ANGRAIL offers state of the art and high quality Research and Special Labs to the institutiosn. It also provides institutions with the access to Virtual Labs, Remote Labs and Hybrid Labs.</p>
@@ -71,7 +71,7 @@ get_header();
       </li>
       <li class="one_half">
         <article>
-          <div class="clear"><a href="#"><img width="150px" height="150px" src=" /angrail/wp-content/uploads/2021/09/ghnw20161103-080802-528.jpg"></i></a>
+          <div class="clear"><a href="#"><img width="150px" height="150px" src="wp-content/uploads/2021/09/ghnw20161103-080802-528.jpg"></i></a>
             <h6 class="heading">Projects</h6>
           </div>
           <p>ANGRAIL accomplishes end to end project needs such as problem identification, mentoring, defining the problem, carry out the project, documenting, fabrication, presenting, publishing and patenting.</p>
@@ -79,7 +79,7 @@ get_header();
       </li>
       <li class="one_half">
         <article>
-          <div class="clear"><a href="#"><img width="150px" height="150px" src=" /angrail/wp-content/uploads/2021/09/pexels-polina-tankilevitch-3735782-scaled.jpg"></i></a>
+          <div class="clear"><a href="#"><img width="150px" height="150px" src="wp-content/uploads/2021/09/pexels-polina-tankilevitch-3735782-scaled.jpg"></i></a>
             <h6 class="heading">Services</h6>
           </div>
           <p>ANGRAIL offers the state of the art services to schools, colleges, universities, industries and individuals to create Research, Creativity and Innovation among learners. </p>
@@ -87,7 +87,7 @@ get_header();
       </li>
       <li class="one_half">
         <article>
-          <div class="clear"><a href="#"><img width="150px" height="150px" src=" /angrail/wp-content/uploads/2021/09/pexels-karolina-grabowska-4491461-scaled.jpg"></i></a>
+          <div class="clear"><a href="#"><img width="150px" height="150px" src="wp-content/uploads/2021/09/pexels-karolina-grabowska-4491461-scaled.jpg"></i></a>
             <h6 class="heading">Courses</h6>
           </div>
           <p>ANGRAIL offers online, offline and blended courses in trending topics across all domains such as arts, Science, Engineering, Education, Management, Agriculture, Animal Husbandry, Medical and Allied Sciences</p>

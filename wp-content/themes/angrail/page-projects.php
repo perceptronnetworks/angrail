@@ -24,7 +24,7 @@ get_header();
       <p>We support the students with hardware & software needs, research laboratory needs and publishing journals and articles. Our state of the art Special Research Lab access will give a comprehensive lab facility to the students. Students can learn the skill needed to complete the project using our course platform. We also have an internship platform where a novice with basic knowledge will be eager to participate in projects. These interns shall assign to the project students to perform some portion of the project. Project guidance and support are applicable for school and college students. </p>
     </div>
     <div class="two_quarter">
-            <img src="/angrail/wp-content/uploads/2021/09/campaign-creators-gMsnXqILjp4-unsplash-scaled.jpg">
+            <img src="wp-content/uploads/2021/09/campaign-creators-gMsnXqILjp4-unsplash-scaled.jpg">
     </div>
     </div>
     <div class="clear"></div>
