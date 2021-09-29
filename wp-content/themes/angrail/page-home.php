@@ -95,7 +95,7 @@ get_header();
       </li>
       
     </ul>
-    <footer class="center"><a class="btn inverse" href="#">View all Services</a></footer>
+    <!-- <footer class="center"><a class="btn inverse" href="#">View all Services</a></footer> -->
     <!-- / main body -->
     <div class="clear"></div>
   </main>
