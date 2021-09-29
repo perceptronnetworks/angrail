@@ -49,7 +49,7 @@ get_header();
   <main  class="hoc page-container clear"> 
     <div class="content about_align" > 
     <div class="two_quarter">
-            <img src="wp-content/uploads/2021/09/zsun-fu-1fg5GuXI2BU-unsplash-scaled.jpg">
+            <img src="/wp-content/uploads/2021/09/zsun-fu-1fg5GuXI2BU-unsplash-scaled.jpg">
         </div>
         <div class="two_quarter">
           <h2>Mission</h2>
@@ -86,7 +86,7 @@ get_header();
             </ul>
         </div> 
     <div class="two_quarter">
-            <img src="wp-content/uploads/2021/09/scott-graham-5fNmWej4tAA-unsplash-scaled.jpg">
+            <img src="/wp-content/uploads/2021/09/scott-graham-5fNmWej4tAA-unsplash-scaled.jpg">
         </div>
 </div> 
     <div class="clear"></div>
@@ -98,7 +98,7 @@ get_header();
      <main  class="hoc page-container clear"> 
     <div class="content about_align" > 
     <div class="two_quarter">
-            <img src="wp-content/uploads/2021/09/nick-morrison-FHnnjk1Yj7Y-unsplash-1-scaled.jpg">
+            <img src="/wp-content/uploads/2021/09/nick-morrison-FHnnjk1Yj7Y-unsplash-1-scaled.jpg">
         </div>
     <div class="two_quarter">
             <h2>Vision</h2>
