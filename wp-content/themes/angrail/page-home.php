@@ -26,7 +26,7 @@ get_header();
   </div>
 </div>
 
-<!-- <div class="wrapper row2">
+<div class="wrapper row2">
   <section id="introblocks" class="hoc container clear"> 
    
     <ul class="nospace group">
@@ -53,7 +53,7 @@ get_header();
       </li>
     </ul>
   </section>
-</div> -->
+</div>
 
 <div class="wrapper row3">
   <main class="hoc container clear"> 
@@ -100,6 +100,7 @@ get_header();
     <div class="clear"></div>
   </main>
 </div>
+
 
 
 <a id="backtotop" href="#top"><i class="fas fa-chevron-up"></i></a>
