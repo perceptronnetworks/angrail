@@ -46,6 +46,21 @@ get_header();
 </div>
 </div>
 <div class="wrapper row3">
+     <main  class="hoc page-container clear"> 
+    <div class="content about_align" > 
+    <div class="two_quarter">
+            <img src="/wp-content/uploads/2021/09/nick-morrison-FHnnjk1Yj7Y-unsplash-1-scaled.jpg">
+        </div>
+    <div class="two_quarter">
+            <h2>Vision</h2>
+          <p>Kindle Innovation & Creativity among students to develop the Next Generation International Researchers and Innovators.</p>
+        </div> 
+
+</div> 
+    <div class="clear"></div>
+</main >
+</div>
+<div class="wrapper row3">
   <main  class="hoc page-container clear"> 
     <div class="content about_align" > 
     <div class="two_quarter">
@@ -93,22 +108,6 @@ get_header();
     </main>
 </div>
 
-
-    <div class="wrapper row3">
-     <main  class="hoc page-container clear"> 
-    <div class="content about_align" > 
-    <div class="two_quarter">
-            <img src="/wp-content/uploads/2021/09/nick-morrison-FHnnjk1Yj7Y-unsplash-1-scaled.jpg">
-        </div>
-    <div class="two_quarter">
-            <h2>Vision</h2>
-          <p>Kindle Innovation & Creativity among students to develop the Next Generation International Researchers and Innovators.</p>
-        </div> 
-
-</div> 
-    <div class="clear"></div>
-</main >
-</div>
 </body>
 </main><!-- #main -->
 <?php
