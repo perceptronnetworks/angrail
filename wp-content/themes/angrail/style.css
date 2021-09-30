@@ -771,3 +771,8 @@ ul.home-grid.overview article {
 #menu-item-37 .sub-menu{
 width: 500px;
 }
+
+.topbar{
+    font-size: 16px;
+    font-weight: 500;
+}

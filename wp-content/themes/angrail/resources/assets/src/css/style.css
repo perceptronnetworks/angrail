@@ -1,5 +1,6 @@
 /* @import url("https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"); */
 @import url("http://fonts.googleapis.com/css?family=Roboto:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i");
+@import url("http://db.onlinewebfonts.com/c/0462590be6674a5827956be5045c54de?family=Montserrat");
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, div
 pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q,
 s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
@@ -34,7 +35,7 @@ html[xmlns] .clearfix {
 ul, li {
   padding: 0;
   margin: 0;
-  list-style: none;
+  list-style: disc;
 }
 
 header, nav, section, article, aside, footer, hgroup {
