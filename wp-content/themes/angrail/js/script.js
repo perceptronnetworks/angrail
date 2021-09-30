@@ -1,0 +1,1 @@
+$('nav li:nth-child(2)').addClass('cats-li-dropdown');

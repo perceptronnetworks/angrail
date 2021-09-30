@@ -32,21 +32,21 @@ get_header();
     <ul class="nospace group">
       <li class="one_third first">
         <article>
-          <a href="#"><img class="imgstyle" src="wp-content/uploads/2021/09/creativity-1.jpg" /></a>
+          <a href="#"><img src="wp-content/uploads/2021/09/creativity-1.jpg" /></a>
           <h6 class="heading underline">Creativity</h6>
           <p>Our carefully designed labs, project metholodgies and courses will ignite the creativity among learners.</p>
         </article>
       </li>
       <li class="one_third">
         <article class="active">
-          <a href="#"><img class="imgstyle" src="wp-content/uploads/2021/09/innovation-and-research-vector-10156763-1.jpg" /></a>
+          <a href="#"><img src="wp-content/uploads/2021/09/innovation-and-research-vector-10156763-1.jpg" /></a>
           <h6 class="heading underline">Research</h6>
           <p>Our pool of international experts  across the globe has proven track records. Our network creates an international research standards in higher learning institutes and industries.</p>
         </article>
       </li>
       <li class="one_third">
         <article>
-          <a href="#"><img class="imgstyle" src="wp-content/uploads/2021/09/images-_1_.jpg" /></a>
+          <a href="#"><img src="wp-content/uploads/2021/09/images-_1_.jpg" /></a>
           <h6 class="heading underline">Innovation</h6>
           <p>Our curriculum and pedagogy are carefully designed after years of research. This makes the learners highly innovative and focused.</p>
         </article>

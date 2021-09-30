@@ -146,6 +146,7 @@ function angrail_custom_theme_scripts() {
 	wp_enqueue_script( 'angrail-custom-theme-accorsions', get_template_directory_uri() . '/js/jquery.backtotop.js', array('jquery'), _S_VERSION, true );
 	wp_enqueue_script( 'angrail-bootstrapmin', get_template_directory_uri() . '/js/jquery.min.js', array(), _S_VERSION, true );
 	wp_enqueue_script( 'angrail-plugin-custom', get_template_directory_uri() . '/js/jquery.mobilemenu.js', array(), _S_VERSION, true );
+	wp_enqueue_script( 'angrail-plugin-custom', get_template_directory_uri() . '/js/jquery.script.js', array(), _S_VERSION, true );
 	wp_register_style(
 		'angrail-font-awesome',
 		get_theme_file_uri( '/resources/assets/src/css/font-awesome.css' ),
@@ -207,17 +208,21 @@ if ( defined( 'JETPACK__VERSION' ) ) {
 	require get_template_directory() . '/inc/jetpack.php';
 }
  
-add_filter( 'nav_menu_link_attributes', 'menu_add_class', 10, 3 );
+add_filter( 'nav_menu_link_attributes', 'menu_add_class', 10, 4 );
 
 function menu_add_class( $atts, $item, $args ) {
-    $class = 'menu-links'; // or something based on $item
+	if( $args->theme_location == 'footer' ) {
+    $class = 'drop'; // or something based on $item
     $atts['class'] = $class;
-    return $atts;
+    
+	}
+	return $atts;
 }
 function is_register_my_menus() {
 register_nav_menus(
 array(
-  'mobile' => __( 'Mobile Menu' )  
+  'mobile' => __( 'Mobile Menu' ) ,
+  'footer' => __( 'Footer Menu' )  
 )
 );
 }
