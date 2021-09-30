@@ -18,7 +18,7 @@ get_header();
     <p>Digital evolution is making the access of internet for all the people in the world. And almost all the businesses are managed over the internet. So, it is essential to protect them in the security breach aspects. Our Cyber security labs cover end-to-end security aspects such as penetration tests, phishing attacks, removable media, password and authentication, physical security, mobile security, public wifi, social engineering and security at home. </p>
     </div>
     <div class="two_quarter">
-        <img src="/wp-content/uploads/2021/09/dylan-gillis-KdeqA3aTnBY-unsplash-scaled.jpg">
+        <img class="imgstyle" src="/wp-content/uploads/2021/09/dylan-gillis-KdeqA3aTnBY-unsplash-scaled.jpg">
         </div>
     </div>
     <div class="clear"></div>

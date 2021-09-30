@@ -15,7 +15,7 @@ get_header();
   <div class="hoc page-container clear"> 
     <div class="content about_align"> 
     <div class="two_quarter">
-            <img src="/wp-content/uploads/2021/09/cdc-rHCNMH9Vlmw-unsplash-scaled.jpg">
+            <img class="imgstyle" src="/wp-content/uploads/2021/09/cdc-rHCNMH9Vlmw-unsplash-scaled.jpg">
     </div>
     <div class="two_quarter">
     <p>ANGRAIL aims is to create a global standard research lab for Universities, Colleges and Institutions across the world. Our Research Lab facilities are spread across trending areas such as Robotics, IoT, AI & ML, Cyber security, AR & VR, Hardware & Networking, Cloud Computing, Renewable Energy, etc. We have an experienced team belongs to Engineering, Science, Arts, Education, Management, Agriculture, Animal Husbandry, Medical and Allied Health Sciences.</p>

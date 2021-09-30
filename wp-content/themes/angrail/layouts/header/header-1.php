@@ -11,7 +11,7 @@
     </div>
     <div class="fl_right"> 
     <ul class="nospace">
-        <li><i style="color:#fff;" class="fas fa-phone-alt rgtspace-5"></i><a class="topbar" href="tel:9894694846">+91 9894694846</a></li>
+        <li><i style="color:#fff;" class="fas fa-phone-volume rgtspace-5"></i><a class="topbar" href="tel:9894694846">+91 9894694846</a></li>
         <li><i style="color:#fff;" class="far fa-envelope rgtspace-5"></i><a style="text-transform:lowercase;"class="topbar" href="mailto:info@angrail.com">info@angrail.com</li>
       </ul>
     </div>

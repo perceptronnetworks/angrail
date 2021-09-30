@@ -16,7 +16,7 @@ get_header();
   <div class="hoc page-container clear"> 
     <div class="content contact_align"> 
     <div class="two_quarter">
-        <img src="/wp-content/uploads/2021/09/i284852689494073914._szw1280h1280_.jpg">
+        <img class="imgstyle" src="/wp-content/uploads/2021/09/i284852689494073914._szw1280h1280_.jpg">
         </div>
       <div class="two_quarter">
           <div class="address">

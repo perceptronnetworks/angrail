@@ -16,7 +16,7 @@ get_header();
   <div class="hoc page-container clear"> 
     <div class="content about_align"> 
     <div class="two_quarter">
-            <img src="/wp-content/uploads/2021/09/cdc-rHCNMH9Vlmw-unsplash-scaled.jpg">
+            <img class="imgstyle" src="/wp-content/uploads/2021/09/cdc-rHCNMH9Vlmw-unsplash-scaled.jpg">
     </div>
     <div class="two_quarter">
     <p>The sales and services wing deals with all kinds of educational hardware needs. Our range of hardware includes computers, laptops, calculators, smart boards, and all school and college lab instruments. We have tie-ups with new and refurbished ITC suppliers. We offer quality products with the best price and a comprehensive warranty</p>

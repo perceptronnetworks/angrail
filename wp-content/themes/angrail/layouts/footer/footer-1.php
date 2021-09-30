@@ -2,7 +2,7 @@
   <footer id="footer" class="hoc clear"> 
    
     <div class="one_quarter first">
-      <h6 class="heading">About</h6>
+      <h6 class="heading">About Us</h6>
         <p class="foo_text" >AKSHAI NexGen Research and Innovation Labs (ANGRAIL) is a global hub for any educational needs. ANGRAIL join hands with schools, colleges, universities & institutes and setup remotely operated research labs. And ANGRAIL offers end to end project support for schools, colleges and PhD students. And the radar of ANGRAIL also extended to offer online courses, sales and support of educational products. </p>
     </div>
     <div class="one_quarter">

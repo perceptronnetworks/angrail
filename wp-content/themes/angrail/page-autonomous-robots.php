@@ -18,7 +18,7 @@ get_header();
     <div class="content about_align">
         
     <div class="two_quarter">
-        <img src="/wp-content/uploads/2021/09/dylan-gillis-KdeqA3aTnBY-unsplash-scaled.jpg">
+        <img class="imgstyle" src="/wp-content/uploads/2021/09/dylan-gillis-KdeqA3aTnBY-unsplash-scaled.jpg">
         
     </div>
     
