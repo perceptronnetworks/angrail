@@ -21,14 +21,13 @@
 <div class="wrapper row1">
   <header id="header" class="hoc clear">
                             <div id="logo" class="fl_left"> 
-                             <h1><a href="index.html">ANGRAIL</a></h1>
+                             <h1><a href="/">ANGRAIL</a></h1>
                             </div>
                              <nav id="mainav" class="fl_right"> 
                                 <?php
                                     wp_nav_menu(
                                         array(
-                                            'theme_location' => 'menu-1',
-                                            
+                                            'theme_location' => 'menu-1',       
                                             'menu_class'      => 'clear',
                                             'depth'           => 3,
                                         ));
