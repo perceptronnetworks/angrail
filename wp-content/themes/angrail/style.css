@@ -80,7 +80,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 
 /* Top Bar
 --------------------------------------------------------------------------------------------------------------- */
-#topbar{padding:20px 0; font-size:.8rem; text-transform:uppercase;}
+#topbar{padding:8px 0; font-size:.8rem; height: 40px;}
 
 #topbar ul li{display:inline-block; margin-right:15px;}
 #topbar ul li:last-child{margin-right:0; padding-right:0; border-right:none;}
@@ -102,15 +102,29 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 
 /* Header
 --------------------------------------------------------------------------------------------------------------- */
-#header{}
+#header{
+	display: flex;
+    align-items: center;
+}
 
 #header #logo{margin:30px 0 0 0;}
 #header #logo h1{margin:0; padding:0; font-size:40px; text-transform:uppercase;}
 
+/* Overview - for services etc. */
+.overview{}
+.overview > li{margin-bottom:50px;}
+.overview > li:nth-last-child(-n+3){margin-bottom:0;}/* Removes bottom margin from the last three items - margin is restored in the media queries when items stack */
+.overview > li:nth-child(2n+1){margin-left:0; clear:left;}/* Removes the need to add class="first" */
+.overview article{}
+.overview article *{margin:0; padding:0;}
+.overview article > div{display:block; position:relative; min-height:36px; margin:0 0 20px 0; padding:8px 0 0 0px;}
+.overview article > div *{line-height:1;}
+.overview article > div i{display:block; position:absolute; top:0; left:0; font-size:36px;}
+
 
 /* Page Intro
 --------------------------------------------------------------------------------------------------------------- */
-#pageintro{padding:150px 0 150px;}/* 300px => 100px for #introblocks negative margin */
+#pageintro{padding:75px 0 50px; height:530px;}/* 300px => 100px for #introblocks negative margin */
 
 #pageintro article, #pageintro article p{display:block; max-width:75%; margin:0 auto; text-align:center;}
 #pageintro article p{max-width:100%; line-height:2rem;}
@@ -121,7 +135,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 /* Introblocks - x3
 --------------------------------------------------------------------------------------------------------------- */
 #introblocks{position:relative; z-index:1;}
-#introblocks > ul{display:block; margin:-30px 0 0; text-align:center;}/* 180px => 100px + container padding */
+#introblocks > ul{display:block; margin:-30px 0 0; text-align:justify;}/* 180px => 100px + container padding */
 #introblocks article{display:block; padding:30px; text-align:center;}
 #introblocks article > a{}
 #introblocks article > a::after{display:block; width:100%; content:"";}/* Used to stop the two inline-block elements stacking next to each other */
@@ -140,18 +154,6 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 .sectiontitle{display:block; max-width:55%; margin:0 auto 80px; text-align:center;}
 .sectiontitle *{margin:0;}
 
-/* Overview - for services etc. */
-.overview{}
-.overview > li{margin-bottom:50px;}
-.overview > li:nth-last-child(-n+3){margin-bottom:0;}/* Removes bottom margin from the last three items - margin is restored in the media queries when items stack */
-.overview > li:nth-child(2n+1){margin-left:0; clear:left;}/* Removes the need to add class="first" */
-.overview article{}
-.overview article *{margin:0; padding:0;}
-.overview article > div{display:block; position:relative; min-height:36px; margin:0 0 20px 0; padding:8px 0 0 0px;}
-.overview article > div *{line-height:1;}
-.overview article > div i{display:block; position:absolute; top:0; left:0; font-size:36px;}
-.overview article > div .heading{}
-.overview article p{}
 
 /* Testimonials */
 #testimonials{}
@@ -364,7 +366,7 @@ label span{color:#FF0000; background-color:inherit;}
 input:focus, textarea:focus, *:required:focus{border-color:#FF3F4A !important;}
 
 .overlay{color:#FFFFFF; background-color:inherit;}
-.overlay::after{color:inherit; background-color:rgba(0,0,0,.55);}
+.overlay::after{color:inherit; background-color:rgb(133 204 197 / 19%);}
 .overlay.light{color:#474747;}
 .overlay.light::after{background-color:rgba(255,255,255,.7);}
 
@@ -374,22 +376,22 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF3F4A !important;}
 .imgover:hover::before{background:rgba(0,0,0,.55);}
 .imgover, .imgover:hover::after{color:#FFFFFF;}
 
-.heading.underline::after{background-color:#F16C00;}
+.heading.underline::after{background-color:#85CCC5;}
 
 
 /* Rows */
-.row0{color:#474747; background-color:#F16C00;}
+.row0{color:#474747; background-color:#85CCC5;}
 .row1{color:#4d4d4d; background-color:#fff;}
 .row2{color:#474747; background-color:#F4F4F4;}
 .row3{color:#474747; background-color:#FFFFFF;}
 .row4{color:#A5A6AA; background-color:#27282E;}
-.row5, .row5 a{color:#A5A6AA; background-color:#1C1D21;}
+.row5, .row5 a{color:#474747; background-color:#85CCC5;}
 
 
 /* Top Bar */
 #topbar #searchform{color:#FF3F4A;}
 #topbar #searchform:hover{}
-#topbar #searchform input{color:#FFFFFF; background:#F16C00;}
+#topbar #searchform input{color:#FFFFFF; background:#85CCC5;}
 #topbar #searchform button{color:#FFFFFF; background:transparent;}
 
 
@@ -425,10 +427,10 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF3F4A !important;}
 .overview article:hover a{color:#FF3F4A;}
 
 #testimonials blockquote{color:#474747; background-color:#FFFFFF;}
-#testimonials blockquote:hover{color:#FFFFFF; background-color:#F16C00;}
+#testimonials blockquote:hover{color:#FFFFFF; background-color:#85CCC5;}
 #testimonials blockquote::before{color:rgba(0,0,0,.1);}
 #testimonials blockquote::after{border-top-color:#FFFFFF;}
-#testimonials blockquote:hover::after{border-top-color:#F16C00;}
+#testimonials blockquote:hover::after{border-top-color:#85CCC5;}
 
 
 /* Footer */
@@ -438,11 +440,11 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF3F4A !important;}
 
 /* Navigation */
 #mainav{}
-#mainav li a{color:inherit; border-color:transparent;}
-#mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#000; background-color:#F16C00;}
-#mainav li li a, #mainav .active li a{color:#FFFFFF; background-color: #f16C00;/* #FF3F4A */ border-color:rgba(255,63,74,.5);}
-#mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#f16C00; border-color:rgba(255,255,255,.6);}
-#mainav form select{color:#474747; background-color:#FFFFFF;}
+#mainav li a{color:#89ccc5; border-color:transparent; font-weight: 700;}
+#mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#fff; background-color:#85CCC5;}
+#mainav li li a, #mainav .active li a{color:#FFFFFF; background-color: #85CCC5;/* #FF3F4A */ border-color:rgba(255,63,74,.5);}
+#mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#2e7a73; border-color:rgba(255,255,255,.6);}
+
 
 #breadcrumb a{color:inherit; background-color:inherit;}
 #breadcrumb li:last-child a{color:#FF3F4A;}
@@ -567,8 +569,8 @@ html, body{margin:0; padding:0; font-size:14px; line-height:1.6em;}
 .bold{font-weight:bold;}
 .center{text-align:center;}
 .right{text-align:right;}
-.uppercase{text-transform:uppercase;}
-.capitalise{text-transform:capitalize;}
+/* .uppercase{text-transform:uppercase;}
+.capitalise{text-transform:capitalize;} */
 .hidden{display:none;}
 .nospace{margin:0; padding:0; list-style:none;}
 .block{display:block;}
@@ -587,7 +589,9 @@ html, body{margin:0; padding:0; font-size:14px; line-height:1.6em;}
 .btn{display:inline-block; padding:8px 18px 10px; text-transform:uppercase; border:1px solid;}
 
 .clear, .group{display:block;}
-.clear::before, .clear::after, .group::before, .group::after{display:table; content:"";}
+.clear::before, 
+.clear::after:not(nav), 
+.group::before, .group::after{display:table; content:"";}
 .clear, .clear::after, .group, .group::after{clear:both;}
 
 a{outline:none; text-decoration:none;}
@@ -608,7 +612,7 @@ img{width:auto; max-width:100%; height:auto; margin:0; padding:0; border:none; l
 /* Fonts
 --------------------------------------------------------------------------------------------------------------- */
 body, input, textarea, select{font-family:Verdana, Geneva, sans-serif;}
-h1, h2, h3, h4, h5, h6, .heading{font-family:Roboto;}
+h1, h2, h3, h4, h5, h6, .heading{font-family:Nunito;}
 
 
 /* Forms
@@ -623,7 +627,7 @@ label{margin-bottom:5px;}
 
 /* Generalise
 --------------------------------------------------------------------------------------------------------------- */
-h1, h2, h3, h4, h5, h6, .heading{margin:0 0 20px 0; font-size:1.4rem; line-height:normal; font-weight:normal; text-transform:uppercase;}
+h1, h2, h3, h4, h5, h6, .heading{margin:0 0 20px 0; font-size:1.4rem; line-height:normal; font-weight:700; text-transform:uppercase;}
 
 .heading.nospace{margin-bottom:0;}
 .heading.underline{display:inline-block; position:relative; padding:0 0 15px 0;}
@@ -637,7 +641,7 @@ hr{display:block; width:100%; height:1px; border:solid; border-width:1px 0 0 0;}
 .font-x2{font-size:2.2rem;}
 .font-x3{font-size:3.2rem;}
 
-.wrapper{display:block; position:relative; width:100%; margin:0; padding:0; text-align:left; word-wrap:break-word;}
+.wrapper{display:block; position:relative; width:100%; margin:0; padding:0; text-align:justify; word-wrap:break-word;}
 /*
 The "hoc" class is a generic class used to centre a containing element horizontally
 It should be used in conjunction with a second class or ID
@@ -700,7 +704,7 @@ list-style: disc;
 }
 
 #footer{
-	text-align: left;
+	text-align: justify;
 }
 
 .footer_links li {
@@ -755,16 +759,17 @@ ul.home-grid.overview article {
 @media only screen and (min-width: 978px) {
 	#mainav li a {
 		padding: 30px 5px;
+		text-shadow: rgb(86 88 91) 1px 1px;
 	}
 	#mainav {
-		width: 78%;
+		width: 93%;
 	}
 	#mainav ul#menu-primary-menu {
 		display: flex;
 		justify-content: space-between;
 	}
 	#header #logo {
-		margin: 15px 0 0 0;
+		margin: 1px 0 0 0;
 	}
 }
 
@@ -774,8 +779,9 @@ width: 500px;
 
 .topbar{
     font-size: 16px;
-    font-weight: 500;
+    font-weight: bold;
 }
+
 ul.footer_links.parent-menu ul.child_menu {
 	display: none;
   }

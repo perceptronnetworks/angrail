@@ -5,7 +5,7 @@
   <div id="topbar" class="hoc clear">
     <div class="fl_left"> 
     <ul class="nospace">
-       <a class="topbar" href="">AKSHAI NexGen Research and Innovaion Labs</a>
+       <a class="topbar" href="">Akshai NexGen Research and Innovaion Labs</a>
       </ul>
       
     </div>
@@ -20,8 +20,8 @@
 
 <div class="wrapper row1">
   <header id="header" class="hoc clear">
-                            <div id="logo" class="fl_left"> 
-                             <h1><a href="/">ANGRAIL</a></h1>
+                            <div id="logo" style="width:75px;" class="fl_left"> 
+                             <h1><a href="/"><img src="wp-content/uploads/2021/10/Logo_AKSHAI.png"></a></h1>
                             </div>
                              <nav id="mainav" class="fl_right"> 
                                 <?php

@@ -7,23 +7,8 @@ get_header();
 <main id="primary" class="site-main">
 <body id="top">
 
-<div class="wrapper bgded overlay" style="background-image:url('wp-content/uploads/2021/09/baim-hanif-pYWuOMhtc6k-unsplash-scaled.jpg');">
-  <div id="pageintro" class="hoc clear"> 
-    <article>
-    <h3 class="hometop_heading" style="text-align:center;">Creating NexGen Scientists, Researchers and Inventors.</h3>
-    <section class="homepage_slide" style="display:flex;">
-      <div class="two_quarter"><img class="imgstyle" src="wp-content/uploads/2021/09/APJ-Quote.jpg"></div>
-      <div class="one_half"><h6>Why Choose Us</h6><br><p>At ANGRAIL, we provide  state of the at research establishment and services to create an envoronment for  learners and scientist across the globe.</p></div>
-   </section>
-        <!-- <footer>
-            <ul class="nospace inline pushright">
-            <li><a class="btn inverse" href="#">About Us</a></li>
-            <li><a class="btn inverse" href="#">Contact Us</a></li>
-            </ul>
-        </footer> -->
-    </article>
-   
-  </div>
+<div class="wrapper">
+    <?php echo do_shortcode('[smartslider3 slider="3"]'); ?>  
 </div>
 
 <div class="wrapper row2">
@@ -39,7 +24,7 @@ get_header();
       </li>
       <li class="one_third">
         <article class="active">
-          <a href="#"><img src="wp-content/uploads/2021/09/innovation-and-research-vector-10156763-1.jpg" /></a>
+          <a href="#"><img src="wp-content/uploads/2021/09/innovation-and-research-vector-10156763.jpg" /></a>
           <h6 class="heading underline">Research</h6>
           <p>Our pool of international experts  across the globe has proven track records. Our network creates an international research standards in higher learning institutes and industries.</p>
         </article>
@@ -71,7 +56,7 @@ get_header();
       </li>
       <li class="one_half">
         <article>
-          <div class="clear"><a href="#"><img class="imgstyle" width="150px" height="150px" src="wp-content/uploads/2021/09/ghnw20161103-080802-528.jpg"></i></a>
+          <div class="clear"><a href="#"><img class="imgstyle" width="150px" height="150px" src="wp-content/uploads/2021/10/5.2b.jpg"></i></a>
             <h6 class="heading">Projects</h6>
           </div>
           <p>ANGRAIL accomplishes end to end project needs such as problem identification, mentoring, defining the problem, carry out the project, documenting, fabrication, presenting, publishing and patenting.</p>
