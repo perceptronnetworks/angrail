@@ -21,7 +21,7 @@
 <div class="wrapper row1">
   <header id="header" class="hoc clear">
                             <div id="logo" style="width:75px;" class="fl_left"> 
-                             <h1><a href="/"><img src="wp-content/uploads/2021/10/Logo_AKSHAI.png"></a></h1>
+                             <h1><a href="/"><img src="/wp-content/uploads/2021/10/Logo_AKSHAI.png"></a></h1>
                             </div>
                              <nav id="mainav" class="fl_right"> 
                                 <?php
