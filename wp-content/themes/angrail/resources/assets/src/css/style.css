@@ -1369,6 +1369,9 @@ align-self: center;
   color: #fff;
   font-size: 16px;
 }
+.home .wrapper.row3 .container{
+  padding-bottom: 0px;
+}
 @media only screen and (max-width: 1024px) {
   .homepage_slide {
     flex-direction: column;
