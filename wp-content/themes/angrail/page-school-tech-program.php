@@ -17,7 +17,7 @@ get_header();
   <div class="hoc page-container clear"> 
     <div class="content about_align">
     <div class="two_quarter">
-         <img class="imgstyle" src="wp-content/uploads/2021/10/4.0a-1.jpg">
+         <img class="imgstyle" src="/wp-content/uploads/2021/10/4.0a-1.jpg">
       </div>
       <div class="two_quarter page-content-align">
         <p>The Angrail School Tech Program (ASTP) promote a culture of entrepreneurship and innovation to foster curiosity, creativity, and imagination in young minds; and inculcate skills such as design mindset, computational thinking, adaptive learning, physical computing, etc. through their School STEAM Programme (SSP). The programme focuses on making learning fun, engaging and inspiring</p>
@@ -41,7 +41,7 @@ get_header();
                 </p>
             </div>
             <div class="two_quarter">
-                <img class="imgstyle" src="wp-content/uploads/2021/10/4.1b.jpg">
+                <img class="imgstyle" src="/wp-content/uploads/2021/10/4.1b.jpg">
             </div>
         </div>
     <div class="clear"></div>
@@ -55,7 +55,7 @@ get_header();
         <div class="content about_align">
            
             <div class="two_quarter">
-                <img class="imgstyle" src="wp-content/uploads/2021/10/4.1b.jpg">
+                <img class="imgstyle" src="/wp-content/uploads/2021/10/4.1b.jpg">
             </div>
             <div class="two_quarter page-content-align">
                 <p>In the modern education system, Spark lab is a space to ignite curiosity, idea and innovation in young minds by converting Ideas into Reality. Spark lab encourage students to experiment with, learn, develop, conceptualize different scientific ideas, explore alternatives and create options that did not exists before. Spark lab facilitates projects similar to Do-It-Yourself projects where the students are stimulated to apply the knowledge they have gained in the classroom.</p>
@@ -90,7 +90,7 @@ get_header();
             </table>    
             </div>
             <div class="two_quarter">
-                <img class="imgstyle" src="wp-content/uploads/2021/10/4.2c.png">
+                <img class="imgstyle" src="/wp-content/uploads/2021/10/4.2c.png">
             </div>
         </div>
     <div class="clear"></div>
@@ -103,7 +103,7 @@ get_header();
   <h2 class="h2-tilte-align" style="text-align:center;">EduTech Courses</h2>
         <div class="content about_align">
             <div class="two_quarter">
-                <img class="imgstyle" src="wp-content/uploads/2021/10/4.3a.jpg">
+                <img class="imgstyle" src="/wp-content/uploads/2021/10/4.3a.jpg">
             </div>
             <div class="two_quarter page-content-align">
                 <p>The EduTech courses of study are designed to meet the need for high school graduates to have more technically oriented educational backgrounds. The EduTech courses are delivered via the web-based learning system. Generally, you'll interact with the instructor and other students via email, discussion boards, interactive chat rooms, video conferences, and/or phone. Classes are offered synchronously (live and on a predetermined schedule) while others are asynchronous (pre-recorded and on your own schedule).</p>
@@ -127,7 +127,7 @@ get_header();
 
             </div>
             <div class="two_quarter">
-                <img class="imgstyle" src="wp-content/uploads/2021/10/4.4b.jpg">
+                <img class="imgstyle" src="/wp-content/uploads/2021/10/4.4b.jpg">
             </div>
         </div>
     <div class="clear"></div>

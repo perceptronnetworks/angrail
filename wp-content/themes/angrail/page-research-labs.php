@@ -15,7 +15,7 @@ get_header();
   <div class="hoc page-container clear"> 
     <div class="content about_align"> 
     <div class="two_quarter">
-          <img class="imgstyle" src="wp-content/uploads/2021/10/3.jpg">
+          <img class="imgstyle" src="/wp-content/uploads/2021/10/3.jpg">
     </div>
     <div class="two_quarter page-content-align">
           <p>ANGRAIL aims is to create a global standard research lab for Universities, Colleges and Institutions across the world. Our Research Lab facilities are spread across trending areas such as Robotics, IoT, AI & ML, Cyber security, AR & VR, Hardware & Networking, Cloud Computing, Renewable Energy, etc. We have an experienced team belongs to Engineering, Science, Arts, Education, Management, Agriculture, Animal Husbandry, Medical and Allied Health Sciences.</p>
@@ -34,7 +34,7 @@ get_header();
           <p>Our Lab facilities offer comprehensive research facilities to the UG, PG and PhD students. Students will have bridge lab sessions using our school labs before entering into college-level labs. Our college-level virtual labs will have essential software tools like Python, Java, C, Scilab, Blender, R, and so on. The Remote Labs have world-class equipment from IoT, Robotics, Cyber Security and so on. </p>
     </div> 
     <div class="two_quarter">
-          <img class="imgstyle" src="wp-content/uploads/2021/10/3.1d.png">
+          <img class="imgstyle" src="/wp-content/uploads/2021/10/3.1d.png">
     </div>
  
     </div>
@@ -50,7 +50,7 @@ get_header();
     <p>Digital evolution is making the access of internet for all the people in the world. And almost all the businesses are managed over the internet. So, it is essential to protect them in the security breach aspects. Our Cyber security labs cover end-to-end security aspects such as penetration tests, phishing attacks, removable media, password and authentication, physical security, mobile security, public wifi, social engineering and security at home. </p>
     </div>
     <div class="two_quarter">
-        <img class="imgstyle" src="wp-content/uploads/2021/10/3.6a.jpg">
+        <img class="imgstyle" src="/wp-content/uploads/2021/10/3.6a.jpg">
         </div>
     </div>
     <div class="clear"></div>
@@ -62,7 +62,7 @@ get_header();
   <h2 class="h2-tilte-align" style="text-align:center;">Augmented Reality and Virtual Reality</h2>
     <div class="content about_align"> 
     <div class="two_quarter">
-        <img class="imgstyle" src="wp-content/uploads/2021/10/3.5a.jpg">
+        <img class="imgstyle" src="/wp-content/uploads/2021/10/3.5a.jpg">
         </div>
       <div class="two_quarter page-content-align">
     <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
@@ -81,7 +81,7 @@ get_header();
     <p>Artificial Intelligence and Machine Learning are the heart of Autonomous Robots, Autonomous Vehicles, and any automated system. Our AI-ML lab focuses on data engineering, data centre management, Big Data Analytics, Neural Networks, Machine Learning, Deep Learning, Artificial Intelligence, and Computer Vision. We offer high tech hardware and software in this lab. We carefully selected special hardware such as Arduino, OaK-D and Nvidia. Our software bucket has Python, R, C, C++ and Java.</p>
     </div>
     <div class="two_quarter">
-        <img class="imgstyle" src="wp-content/uploads/2021/10/3.3a.jpg">   
+        <img class="imgstyle" src="/wp-content/uploads/2021/10/3.3a.jpg">   
     </div>
     
     </div>
@@ -94,7 +94,7 @@ get_header();
   <h2 class="h2-tilte-align" style="text-align:center;">Design and Application of Renewable Energy Systems</h2>
     <div class="content about_align">   
     <div class="two_quarter">
-        <img class="imgstyle" src="wp-content/uploads/2021/10/3.4a.jpg">
+        <img class="imgstyle" src="/wp-content/uploads/2021/10/3.4a.jpg">
     </div>
     <div class="two_quarter page-content-align">
         <p>Self-sustainability is the demanding human and environmental need in today's world. Using nature's energy for industry and household works will open a gate for an utterly sustainable environment. So we feel the Research on Renewable Energy is one the significant activity for any student. </p>
@@ -114,7 +114,7 @@ get_header();
                   <p>By considering the importance of this technology, we at ANGRAIL had a vision to become a Research hub of IoT. Our IoT lab has hardware and software after prudent brainstorming with the pool of experts. Our labs have both Virtual and Remote labs, which shall be accessed by the students through online and offline mode.</p>
               </div>
               <div class="two_quarter">
-                  <img class="imgstyle" src="wp-content/uploads/2021/10/3.1a.png">
+                  <img class="imgstyle" src="/wp-content/uploads/2021/10/3.1a.png">
               </div>
           </div>
       <div class="clear"></div>
@@ -126,7 +126,7 @@ get_header();
   <h2 class="h2-tilte-align" style="text-align:center;">FDP</h2>
        <div class="content about_align">
           <div class="two_quarter">
-              <img class="imgstyle" src="wp-content/uploads/2021/10/3.9a.png">
+              <img class="imgstyle" src="/wp-content/uploads/2021/10/3.9a.png">
           </div>
           <div class="two_quarter page-content-align">
             <p>Faculty and mentors are the backbones for the students and research scholars. We feel it is our duty and responsibility to train and build a foundation for faculty and mentors. There are multiple ways and methods available today for enhancing the skills of faculty.  The Faculty Development Program (FDP) is one among the same, and it has been considered a stand-alone educational pedagogy in fostering knowledge and professional skills. There exist a lot of faculty development programs offered by colleges, universities and independent organizations. Still, there is a vast demand for focused development programs with demanded outcomes. Our FDP has unique pedagogy. It is an interactive way of learning with hands-on exercises, take-home fun problems & assignments and finally a real-world problem-solving.</p> 
@@ -146,7 +146,7 @@ get_header();
                 <p>Robotics is one of the top 5 emerging areas in the world. The beauty of Robotics is the easiness of learning and the modular of nature. We offer wide-range of Robotics Solutions. Our lab covers the modelling, analysis and design portion of the robotics. This covers the applications using the coding and programming using the prototype robots. Our lab has hardware, namely, Prototype DIY Robots, drones, autonomous cars (ADAS), Control Systems, Humanoid Robots, Robot arms with manipulators and mechatronic systems. Our Virtual Labs has software tools such as Python and ROS.</p>
             </div>
             <div class="two_quarter">
-                <img class="imgstyle" src="wp-content/uploads/2021/10/3.2a.jpg">
+                <img class="imgstyle" src="/wp-content/uploads/2021/10/3.2a.jpg">
             </div>
         </div>
     <div class="clear"></div>
@@ -159,7 +159,7 @@ get_header();
   <h2 class="h2-tilte-align" style="text-align:center;">Webinars</h2>
     <div class="content about_align">
         <div class="two_quarter">
-            <img  class="imgstyle" src="wp-content/uploads/2021/10/3.7a.jpg">
+            <img  class="imgstyle" src="/wp-content/uploads/2021/10/3.7a.jpg">
         </div>
           <div class="two_quarter page-content-align">
               <p>We believe that knowledge sharing and networking is fun and interesting. Webinars are the initial sparking gateway for any individuals to start learning any skill/concept. Webinars in this new-normal world are essential academic services that enable an ocean of knowledge to students and professionals. We are attempting to create a global platform to connect leaders in the emerging areas with the students, academics and industry professionals. We have a strong network across the globe in both academics and industry from various domains.</p>
@@ -178,7 +178,7 @@ get_header();
                  <p>We conduct workshops for students, faculty members, researchers and industry professionals. Our workshop model is unique, and it always has inter-disciplinary department students' involvement. For example, in our IoT workshop, students from Computer Science, Electronics & Communications and any other core engineering & science group students can participate. Theory concepts and the complimenting hands-on exercise will feed your mind and organs to remember the core concepts of the particular topic. At the end of every section, the participants will give a gamified quiz/assignment during the workshop. Finally, a real-world capstone project will be given to the participants to test the outcome of the workshop.</p>
             </div>
             <div class="two_quarter">
-                <img class="imgstyle" src="wp-content/uploads/2021/10/3.8a.jpg">
+                <img class="imgstyle" src="/wp-content/uploads/2021/10/3.8a.jpg">
             </div>
         </div>
     <div class="clear"></div>

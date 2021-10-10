@@ -15,7 +15,7 @@ get_header();
   <main class="hoc page-container clear"> 
     <div class="content about_align"> 
         <div class="two_quarter">
-            <img class="imgstyle" src="wp-content/uploads/2021/10/3.6f.jpg">
+            <img class="imgstyle" src="/wp-content/uploads/2021/10/3.6f.jpg">
         </div>
         <div class="two_quarter page-content-align">
             <h2>Search of Knowledge</h2>
@@ -37,7 +37,7 @@ get_header();
         </div>
 
         <div class="two_quarter">
-            <img class="imgstyle" src="wp-content/uploads/2021/10/kavitha-1.jpeg">
+            <img class="imgstyle" src="/wp-content/uploads/2021/10/kavitha-1.jpeg">
         </div>
         
     </div>
@@ -49,7 +49,7 @@ get_header();
      <main  class="hoc page-container clear"> 
     <div class="content about_align" > 
     <div class="two_quarter">
-            <img class="imgstyle" src="wp-content/uploads/2021/10/our-mission.jpg">
+            <img class="imgstyle" src="/wp-content/uploads/2021/10/our-mission.jpg">
         </div>
     <div class="two_quarter page-content-align">
             <h2>Vision</h2>
@@ -78,7 +78,7 @@ get_header();
           </p>
         </div> 
         <div class="two_quarter">
-            <img class="imgstyle" src="wp-content/uploads/2021/10/our-mission.jpg">
+            <img class="imgstyle" src="/wp-content/uploads/2021/10/our-mission.jpg">
         </div>
 </div> 
     <div class="clear"></div>
@@ -89,7 +89,7 @@ get_header();
   <main  class="hoc page-container clear"> 
     <div class="content about_align" > 
     <div class="two_quarter">
-            <img class="imgstyle" src="wp-content/uploads/2021/10/our-mission.jpg">
+            <img class="imgstyle" src="/wp-content/uploads/2021/10/our-mission.jpg">
         </div>
     <div class="two_quarter page-content-align">
             <h2>Objectives</h2>
