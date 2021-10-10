@@ -1314,7 +1314,7 @@ color: #fff;
   padding: 35px;
 }
 #breadcrumb{
-padding:100px 0px 100px 0px;
+padding:30px 0px 30px 0px;
 }
 #breadcrumb h2{
  text-align: center;
@@ -1326,7 +1326,7 @@ padding:100px 0px 100px 0px;
 width: 1300px;
 margin-top: 70px;
 }
-.page-container .about_align, .page-container .contact_align{
+.page-container .about_align{
   display: flex;
   /* align-items: center; */
 }
@@ -1346,7 +1346,29 @@ margin-top: 70px;
 {
   color: #000;
 }
-
+.h2-tilte-align{
+  margin-bottom: 50px;
+}
+.h6-margin-bottom{
+  margin: 20px 0px;
+}
+.list_align{
+  padding-left: 15px;
+  padding-bottom: 20px;
+}
+.list_align li a{
+color:#474747;
+}
+.list_align li a:hover{
+  color:#88CCC5;
+  }
+.page-content-align{
+align-self: center;
+}
+#copyright a, #copyright p{
+  color: #fff;
+  font-size: 16px;
+}
 @media only screen and (max-width: 1024px) {
   .homepage_slide {
     flex-direction: column;
