@@ -15,7 +15,7 @@ get_header();
   <main class="hoc page-container clear"> 
     <div class="content about_align"> 
         <div class="two_quarter">
-            <img class="imgstyle" src="/wp-content/uploads/2021/10/About-us-scaled.jpeg">
+            <img class="imgstyle" src="/wp-content/uploads/2021/10/About-us.jpeg">
         </div>
         <div class="two_quarter page-content-align">
             <h2>Search of Knowledge</h2>
@@ -49,7 +49,7 @@ get_header();
      <main  class="hoc page-container clear"> 
     <div class="content about_align" > 
     <div class="two_quarter">
-            <img class="imgstyle" src="/wp-content/uploads/2021/10/Vision-scaled.jpeg">
+            <img class="imgstyle" src="/wp-content/uploads/2021/10/Vision.jpeg">
         </div>
     <div class="two_quarter page-content-align">
             <h2>Vision</h2>
@@ -78,7 +78,7 @@ get_header();
           </p>
         </div> 
         <div class="two_quarter">
-            <img class="imgstyle" src="/wp-content/uploads/2021/10/Mission-scaled.jpeg">
+            <img class="imgstyle" src="/wp-content/uploads/2021/10/Mission.jpeg">
         </div>
 </div> 
     <div class="clear"></div>
@@ -89,7 +89,7 @@ get_header();
   <main  class="hoc page-container clear"> 
     <div class="content about_align" > 
     <div class="two_quarter">
-            <img class="imgstyle" src="/wp-content/uploads/2021/10/Objectives-scaled.jpeg">
+            <img class="imgstyle" src="/wp-content/uploads/2021/10/Objectives.jpeg">
         </div>
     <div class="two_quarter page-content-align">
             <h2>Objectives</h2>
