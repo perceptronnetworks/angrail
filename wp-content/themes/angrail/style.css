@@ -440,7 +440,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF3F4A !important;}
 
 /* Navigation */
 #mainav{}
-#mainav li a{color:#89ccc5; border-color:transparent; font-weight: 700;}
+#mainav li a{color:#1ba99b; border-color:transparent; font-weight: 700;}
 #mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#fff; background-color:#1ba99b;}
 #mainav li li a, #mainav .active li a{color:#FFFFFF; background-color: #1ba99b;/* #FF3F4A */ border-color:rgba(255,63,74,.5);}
 #mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#2e7a73; border-color:rgba(255,255,255,.6);}
