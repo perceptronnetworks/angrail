@@ -17,14 +17,14 @@ get_header();
     <ul class="nospace group">
       <li class="one_third first">
         <article>
-          <a href="#"><img src="wp-content/uploads/2021/10/33-338946_transparent-foco-idea-png-tangier-png-download.png" /></a>
+          <a href="#"><img src="wp-content/uploads/2021/10/Creativity_icon-2.png" /></a>
           <h6 class="heading underline">Creativity</h6>
           <p>Our carefully designed labs, project metholodgies and courses will ignite the creativity among learners.</p>
         </article>
       </li>
       <li class="one_third">
         <article class="active">
-          <a href="#"><img src="wp-content/uploads/2021/10/d4cc7940fa499a6e274c3f719a67ad4f.png" /></a>
+          <a href="#"><img src="wp-content/uploads/2021/10/research.jpg" /></a>
           <h6 class="heading underline">Research</h6>
           <p>Our pool of international experts  across the globe has proven track records. Our network creates an international research standards in higher learning institutes and industries.</p>
         </article>
