@@ -376,22 +376,22 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF3F4A !important;}
 .imgover:hover::before{background:rgba(0,0,0,.55);}
 .imgover, .imgover:hover::after{color:#FFFFFF;}
 
-.heading.underline::after{background-color:#85CCC5;}
+.heading.underline::after{background-color:#1ba99b;}
 
 
 /* Rows */
-.row0{color:#474747; background-color:#85CCC5;}
+.row0{color:#474747; background-color:#1ba99b;}
 .row1{color:#4d4d4d; background-color:#fff;}
 .row2{color:#474747; background-color:#F4F4F4;}
 .row3{color:#474747; background-color:#FFFFFF;}
 .row4{color:#A5A6AA; background-color:#27282E;}
-.row5, .row5 a{color:#474747; background-color:#85CCC5;}
+.row5, .row5 a{color:#474747; background-color:#1ba99b;}
 
 
 /* Top Bar */
 #topbar #searchform{color:#FF3F4A;}
 #topbar #searchform:hover{}
-#topbar #searchform input{color:#FFFFFF; background:#85CCC5;}
+#topbar #searchform input{color:#FFFFFF; background:#1ba99b;}
 #topbar #searchform button{color:#FFFFFF; background:transparent;}
 
 
@@ -427,10 +427,10 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF3F4A !important;}
 .overview article:hover a{color:#FF3F4A;}
 
 #testimonials blockquote{color:#474747; background-color:#FFFFFF;}
-#testimonials blockquote:hover{color:#FFFFFF; background-color:#85CCC5;}
+#testimonials blockquote:hover{color:#FFFFFF; background-color:#1ba99b;}
 #testimonials blockquote::before{color:rgba(0,0,0,.1);}
 #testimonials blockquote::after{border-top-color:#FFFFFF;}
-#testimonials blockquote:hover::after{border-top-color:#85CCC5;}
+#testimonials blockquote:hover::after{border-top-color:#1ba99b;}
 
 
 /* Footer */
@@ -441,8 +441,8 @@ input:focus, textarea:focus, *:required:focus{border-color:#FF3F4A !important;}
 /* Navigation */
 #mainav{}
 #mainav li a{color:#89ccc5; border-color:transparent; font-weight: 700;}
-#mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#fff; background-color:#85CCC5;}
-#mainav li li a, #mainav .active li a{color:#FFFFFF; background-color: #85CCC5;/* #FF3F4A */ border-color:rgba(255,63,74,.5);}
+#mainav .active a, #mainav a:hover, #mainav li:hover > a{color:#fff; background-color:#1ba99b;}
+#mainav li li a, #mainav .active li a{color:#FFFFFF; background-color: #1ba99b;/* #FF3F4A */ border-color:rgba(255,63,74,.5);}
 #mainav li li:hover > a, #mainav .active .active > a{color:#FFFFFF; background-color:#2e7a73; border-color:rgba(255,255,255,.6);}
 
 
