@@ -627,7 +627,7 @@ label{margin-bottom:5px;}
 
 /* Generalise
 --------------------------------------------------------------------------------------------------------------- */
-h1, h2, h3, h4, h5, h6, .heading{margin:0 0 20px 0; font-size:1.4rem; line-height:normal; color:#88CCC5; font-weight:700; text-shadow: rgb(86 88 91) 1px 1px; text-transform:uppercase;}
+h1, h2, h3, h4, h5, h6, .heading{margin:0 0 20px 0; font-size:1.4rem; line-height:normal; color:#1ba99b; font-weight:700; text-shadow: rgb(86 88 91) 1px 1px; text-transform:uppercase;}
 
 .heading.nospace{margin-bottom:0;}
 .heading.underline{display:inline-block; position:relative; padding:0 0 15px 0;}
@@ -664,7 +664,7 @@ address, article, aside, figcaption, figure, footer, header, main, nav, section{
 footer .one_quarter{width:calc(91%/3);}
 .one_third{width:47%;}
 #introblocks .one_third {
-    width: calc(91%/3);
+    width: calc(100%/3);
 }
 .one_half, .two_quarter{width:47.89473%;}
 .two_third{width:65.26315%;}
