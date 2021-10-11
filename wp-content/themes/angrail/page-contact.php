@@ -27,12 +27,12 @@ get_header();
               <p>Chennai - 600107</p>
               <p>Tamilnadu, India.</p>
             </div>
-            <div class="phone">
-            <h5>Phone Number</h5>
+            <div class="phone" style="display:flex;">
+            <i class="fas fa-phone-volume inspace-5 rgtspace-5"></i>
               <p><a href="tel:+919894694846">+919894694846</a></p>
             </div>
-            <div class="email">
-            <h5>Email Id</h5>
+            <div class="email" style="display:flex;">
+            <i class="far fa-envelope inspace-5 rgtspace-5"></i>
               <p><a href="mailto:info@angrail.com">info@angrail.com</a></p>
             </div>
     </div> 

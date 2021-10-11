@@ -1373,6 +1373,10 @@ align-self: center;
 .home .wrapper.row3 .container{
   padding-bottom: 0px;
 }
+.contact_align i{
+  font-size: 20px;
+  color: #1ba99b;
+}
 @media only screen and (max-width: 1024px) {
   .homepage_slide {
     flex-direction: column;
