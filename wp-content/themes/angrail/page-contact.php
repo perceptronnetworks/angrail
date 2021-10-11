@@ -14,8 +14,12 @@ get_header();
 
 <div class="wrapper row3">
   <div class="hoc page-container clear"> 
-    <div class="content contact_align"> 
-          <div class="address">
+    <div class="content about_align"> 
+    <div class="two_quarter">
+            <img class="imgstyle" src="/wp-content/uploads/2021/10/contact.png">
+    </div>
+    <div class="two_quarter contact_align">
+    <div class="address">
               <h5>Address</h5>
               <p>AKSHAI NextGen Research and Innovation Labs (ANGRAIL)</p>
               <p>Plot No.6, First Street,</p>
@@ -31,13 +35,11 @@ get_header();
             <h5>Email Id</h5>
               <p><a href="mailto:info@angrail.com">info@angrail.com</a></p>
             </div>
-      
-
-        
-        
-      
+    </div> 
+    
     </div>
     <div class="clear"></div>
+</div>
 </div>
 </body>
 </main><!-- #main -->

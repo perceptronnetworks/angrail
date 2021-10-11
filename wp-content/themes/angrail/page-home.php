@@ -31,7 +31,7 @@ get_header();
       </li>
       <li class="one_third">
         <article>
-          <a href="#"><img src="wp-content/uploads/2021/10/900967.png" /></a>
+          <a href="#"><img src="wp-content/uploads/2021/10/innovation.png" /></a>
           <h6 class="heading underline">Innovation</h6>
           <p>Our curriculum and pedagogy are carefully designed after years of research. This makes the learners highly innovative and focused.</p>
         </article>
