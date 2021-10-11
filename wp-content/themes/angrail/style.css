@@ -625,6 +625,7 @@ label{margin-bottom:5px;}
 ::placeholder{opacity:1;}/* Makes sure the placeholder text is not transparent */
 
 
+
 /* Generalise
 --------------------------------------------------------------------------------------------------------------- */
 h1, h2, h3, h4, h5, h6, .heading{margin:0 0 20px 0; font-size:1.4rem; line-height:normal; color:#1ba99b; font-weight:700; text-shadow: rgb(86 88 91) 1px 1px; text-transform:uppercase;}
@@ -656,17 +657,18 @@ address, article, aside, figcaption, figure, footer, header, main, nav, section{
 
 /* Grid - RS-MQF 1140 V.2 - https://www.os-templates.com/free-basic-html5-templates/rs-mqf-1140
 --------------------------------------------------------------------------------------------------------------- */
-.one_half, .one_third, .two_third, .one_quarter, .two_quarter, .three_quarter{display:inline-block; float:left; margin:0 0 0 0; list-style:none;     padding: 0 2% 0px 0%;}
+.one_half, .one_third, .two_third, .one_quarter, .two_quarter, .three_quarter{display:inline-block; float:left; margin:0 0 0 0; list-style:none;     padding: 0 2% 0px 2%;}
 
 .first{margin-left:0; clear:left;}
 
+
 .one_quarter{width:21.8421%;}
-footer .one_quarter{width:calc(91%/3);}
+footer .one_quarter{width:calc(100%/3);}
 .one_third{width:47%;}
 #introblocks .one_third {
     width: calc(100%/3);
 }
-.one_half, .two_quarter{width:47.89473%;}
+.one_half, .two_quarter{width:50%;}
 .two_third{width:65.26315%;}
 .three_quarter{width:73.94736%;}
 
