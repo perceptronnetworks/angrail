@@ -21,7 +21,7 @@
 <div class="wrapper row1">
   <header id="header" class="hoc clear">
                             <div id="logo" style="width:75px;" class="fl_left"> 
-                             <a href="/"><img src="/angrail/wp-content/uploads/2021/10/Logo_AKSHAI.png"></a>
+                             <a href="/"><img src="/wp-content/uploads/2021/10/Logo_AKSHAI.png"></a>
                             </div>
                             
                              <nav id="mainav" class="navbar navbar-expand-lg fl_right"> 
