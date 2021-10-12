@@ -31,17 +31,17 @@
       <ul class="nospace linklist">
       <li>
       <p>Head Quarters:</p>
-        <i style="color:#1ba99b;" class="fas fa-map-marker-alt rgtspace-5"></i>
+        <i style="color:#85ccc5;" class="fas fa-map-marker-alt rgtspace-5"></i>
         <a href="#">Chennai 600107, TN, India</a>
       </li>
       <li>
       <p>Write to us on: </p>
-        <i style="color:#1ba99b;" class="far fa-envelope rgtspace-5"></i>
+        <i style="color:#85ccc5;" class="far fa-envelope rgtspace-5"></i>
         <a style="text-transform:lowercase"; href="mailto:info@angrail.com">info@angrail.com</a>
       </li>
       <li>
         <p>Get us on: </p>
-        <i style="color:#1ba99b;" class="fas fa-phone-volume rgtspace-5"></i>
+        <i style="color:#85ccc5;" class="fas fa-phone-volume rgtspace-5"></i>
         <a href="tel:9894694846">+91 9894694846</a>
       </li>
       </ul>
