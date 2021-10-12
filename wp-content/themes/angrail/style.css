@@ -763,9 +763,7 @@ ul.home-grid.overview article {
 		padding: 30px 5px;
 		text-shadow: rgb(86 88 91) 1px 1px;
 	}
-	#mainav {
-		width: 93%;
-	}
+	
 	#mainav ul#menu-primary-menu {
 		display: flex;
 		justify-content: space-between;
@@ -808,4 +806,5 @@ ul.footer_links.parent-menu ul.child_menu {
 	animation-fill-mode: both; */
 	animation: animate-mouth 1.5s forwards;
     animation-delay: 2s;
+	box-shadow: 5px 4px 0px -1px #1ba99b;
 }

@@ -1,13 +1,12 @@
-<div class="wrapper row4" style="height:410px;">
-  <footer id="footer" class="hoc clear"> 
+
    
-    <div class="one_quarter first">
-      <h6 class="heading">About Us</h6>
+    <div class="col-lg-4 col-md-6 col-sm-12 first foo-about">
+    <h6 class="heading">About us</h6>
         <p class="foo_text" >AKSHAI NexGen Research and Innovation Labs (ANGRAIL) is a global hub for any educational needs. ANGRAIL join hands with schools, colleges, universities & institutes and setup remotely operated research labs. And ANGRAIL offers end to end project support for schools, colleges and PhD students. And the radar of ANGRAIL also extended to offer online courses, sales and support of educational products. </p>
     </div>
-    <div class="one_quarter">
+    <div class="col-lg-4 col-md-6 col-sm-12 foo-menu">
       <h6 class="heading">Our Services</h6>
-      <nav class="sdb_holder"> 
+      <nav class="sdb_holder foo_menu_align"> 
                                 <?php
                                     wp_nav_menu(
                                         array(
@@ -27,7 +26,7 @@
                                 ?>
             </nav>
     </div>
-    <div class="one_quarter">
+    <div class="col-lg-4 col-md-6 col-sm-12 foo-address">
       <h6 class="heading">Contact Us</h6>
       <ul class="nospace linklist">
       <li>
@@ -48,11 +47,4 @@
       </ul>
     </div>
    
-  </footer>
-</div>
 
-<div class="wrapper row5">
-  <div id="copyright" class="hoc clear"> 
-    <p style="text-align:center; color:#fff;">Copyright © <a href="">ANGRAIL</a>. All rights reserved.</p>
-  </div>
-</div>

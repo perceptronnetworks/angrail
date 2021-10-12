@@ -15,10 +15,10 @@ get_header();
 <div class="wrapper row3">
   <div class="hoc page-container clear"> 
     <div class="content about_align"> 
-    <div class="two_quarter">
+    <div class="col-lg-6 col-md-12 col-sm-12">
             <img class="imgstyle" src="/wp-content/uploads/2021/10/contact.png">
     </div>
-    <div class="two_quarter contact_align">
+    <div class="col-lg-6 col-md-12 col-sm-12 contact_align">
     <div class="address">
               <h5>Address</h5>
               <p>AKSHAI NextGen Research and Innovation Labs (ANGRAIL)</p>

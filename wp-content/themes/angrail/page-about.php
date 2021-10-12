@@ -14,10 +14,10 @@ get_header();
 <div class="wrapper row3">
   <main class="hoc page-container clear"> 
     <div class="content about_align"> 
-        <div class="two_quarter">
+        <div class="col-lg-6 col-md-12 col-sm-12">
             <img class="imgstyle" src="/wp-content/uploads/2021/10/About-us.jpeg">
         </div>
-        <div class="two_quarter page-content-align">
+        <div class="col-lg-6 col-md-12 col-sm-12 page-content-align">
             <h2>Search of Knowledge</h2>
             <p>When there is a search for knowledge, there is an excitement and opening of a new universe for anyone. Dr APJ Abdul Kalam once said, "You have to dream before your dreams come true". We believe that Research shall be one of the powerful dreams. We at ANGRAIL aim to seed the research dream among the young minds in India and the rest of the world.</p>
             <p>The study shows that China is leading the research space, followed by the USA and UK. We strongly feel that the younger generation must compete with such international players. It is needed for the school and college students to expose themselves to the Research and latest technologies to equip for healthy competition. Study shows that almost 60% school and college students need access to the research facilities, and the door to such facilities is still locked for many. We want to open the gate with the key of research, creativity and innovation knowledge.</p>
@@ -31,12 +31,12 @@ get_header();
 <div class="wrapper row3">
   <div class="hoc page-container clear"> 
     <div class="content about_align"> 
-    <div class="two_quarter page-content-align">
+    <div class="col-lg-6 col-md-12 col-sm-12 page-content-align">
             <p>To create the key to open the research door, Our CEO, Dr R. Kavitha, envisioned a global platform for imparting young minds' with Research, Creativity, and Innovation. This initiative aims to "Kindle Innovation & Creativity among students to develop Next Generation International Researchers and Innovators." Our CEO has 20+ years of experience in academics and Research. She worked in Indian and African countries as a Teacher, Professor and Principal. Now, she is working as a Vice-Chancellor of DMI-St. Eugene University, Zambia.  From the initial stages of her career, she expresses kindness and cares towards students. At the same time, she ensures the students attain the highest possible level of learning.</p>
             <p>ANGRAIL follows a carefully designed pedagogy. We identified emerging skills such as IoT, Robotics, AI & ML, Renewable Energy, AR, VR, Cloud Computing and Cyber Security as the much-needed skills of this millennium. We create a global platform for any individual to access the state of the art lab facilities with gamified learning at the ease to their home. Our state of the art initiatives such as Research Laboratory, School and College Projects, Online-Offline-Blended Courses, Research Services, hardware and Software Services empowers the students to compete in the international space. Our outcome-based teaching-learning method will equip the students to meet the international standards and provide confidence among them. Our initiative will prepare the next generation talent pool with global standards, making the country a global hub for Research, Creativity and Innovation in all domains.</p>
         </div>
 
-        <div class="two_quarter">
+        <div class="col-lg-6 col-md-12 col-sm-12">
             <img class="imgstyle" src="/wp-content/uploads/2021/10/kavitha-1.jpeg">
         </div>
         
@@ -48,10 +48,10 @@ get_header();
 <div class="wrapper row3">
      <main  class="hoc page-container clear"> 
     <div class="content about_align" > 
-    <div class="two_quarter">
+    <div class="col-lg-6 col-md-12 col-sm-12">
             <img class="imgstyle" src="/wp-content/uploads/2021/10/Vision.jpeg">
         </div>
-    <div class="two_quarter page-content-align">
+    <div class="col-lg-6 col-md-12 col-sm-12 page-content-align">
             <h2>Vision</h2>
           <p>Kindle Innovation & Creativity among students to develop the Next Generation International Researchers and Innovators.</p>
         </div> 
@@ -64,7 +64,7 @@ get_header();
   <main  class="hoc page-container clear"> 
     <div class="content about_align" > 
     
-        <div class="two_quarter page-content-align">
+        <div class="col-lg-6 col-md-12 col-sm-12 page-content-align">
           <h2>Mission</h2>
             <p>
             <ul>
@@ -77,7 +77,7 @@ get_header();
             </ul>
           </p>
         </div> 
-        <div class="two_quarter">
+        <div class="col-lg-6 col-md-12 col-sm-12">
             <img class="imgstyle" src="/wp-content/uploads/2021/10/Mission.jpeg">
         </div>
 </div> 
@@ -88,10 +88,10 @@ get_header();
 <div class="wrapper row3">
   <main  class="hoc page-container clear"> 
     <div class="content about_align" > 
-    <div class="two_quarter">
+    <div class="col-lg-6 col-md-12 col-sm-12">
             <img class="imgstyle" src="/wp-content/uploads/2021/10/Objectives.jpeg">
         </div>
-    <div class="two_quarter page-content-align">
+    <div class="col-lg-6 col-md-12 col-sm-12 page-content-align">
             <h2>Objectives</h2>
             <ul>
             <li>Provide state of art laboratory infrastructure to encourage students to experiment the fundamental application of science, technology, engineering and mathematics, and enable product visualization;</li>

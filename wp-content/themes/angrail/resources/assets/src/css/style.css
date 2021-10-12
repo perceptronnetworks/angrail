@@ -1327,10 +1327,8 @@ padding:30px 0px 30px 0px;
 width: 1300px;
 margin-top: 70px;
 }
-.page-container .about_align{
-  display: flex;
-  /* align-items: center; */
-}
+
+
 .page-container .content h2{
  margin-bottom: 20px;
 }
@@ -1377,10 +1375,108 @@ align-self: center;
   font-size: 20px;
   color: #1ba99b;
 }
+.foo-logo{
+width: 100px;
+}
 @media only screen and (max-width: 1024px) {
   .homepage_slide {
     flex-direction: column;
     align-items: center;
 }
 
+}
+@media only screen and (min-width: 992px) {
+.page-container .about_align{
+  display: flex;
+}
+}
+@media only screen and (min-width: 767px) and (max-width: 1024px){
+#footer{
+  display: flex;
+  padding: 40px;
+  }
+  .foo-about, .foo-menu, .foo-address{
+    max-width: 100%;
+    text-align: center;
+    margin-bottom: 50px;
+  }
+  .foo_menu_align ul li{
+    padding-bottom: 10px;
+    }
+    #footer hr, #footer .borderedbox, #footer .linklist li {
+      border:none;
+  }
+}
+@media only screen and (min-width: 1025px) {
+.footer-align{
+  height:410px !important;
+}
+#footer{
+display: flex;
+}
+#footer .first{
+  padding-right: 70px;
+}
+.foo_menu_align{
+column-count: 2;
+}
+.foo_menu_align .menu-item-670{
+  padding-bottom: 24px;
+}
+.foo_menu_align ul li{
+  padding-bottom: 7px;
+  }
+.menu-primary-menu-container{
+width: 100%;
+  }
+  #mainav {
+		width: 100%;
+	}
+}
+@media only screen and (max-width: 768px) {
+.foo-about, .foo-menu, .foo-address{
+  margin-bottom: 20px;
+}
+#footer{
+  text-align: center;
+  padding: 40px 0px !important;
+}
+.foo_menu_align ul li{
+  padding-bottom: 12px;
+  }
+}
+@media only screen and (max-width: 737px) {
+
+#topbar{
+  height: 90px;
+}
+#topbar .fl_left, #topbar .fl_right{
+  float: none;
+  text-align: center;
+}
+}
+@media only screen and (min-width: 1201px) and (max-width: 1400px){
+#header, #topbar,  #footer{
+padding-left:50px;
+padding-right: 50px;
+}
+}
+@media only screen and (min-width: 1101px) and (max-width: 1200px){
+#mainav li a {
+font-size: 14px;
+}
+#header, #topbar,  #footer{
+  padding-left:20px;
+  padding-right: 20px;
+  }
+}
+@media only screen and (min-width: 1025px) and (max-width: 1100px){
+  #mainav li a {
+    font-size: 13px;
+    }
+    #header, #topbar,  #footer{
+      padding-left:10px;
+      padding-right: 10px;
+      }
+    
 }

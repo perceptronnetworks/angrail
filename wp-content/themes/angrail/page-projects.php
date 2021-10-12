@@ -16,12 +16,12 @@ get_header();
     <div class="hoc page-container clear"> 
       <div class="content about_align"> 
 
-      <div class="two_quarter page-content-align">
+      <div class="col-lg-6 col-md-12 col-sm-12 page-content-align">
         <p>Students always wonder where to apply the skills and concepts they learn during their classes. Project work is one of the exciting places to apply the skills. Project work starts from childhood, even before school. One can remember our parents give a physical activity with toys for the kids. It also strengthens the cognitive thinking ability of the kid. Any individual will always enjoy some physical activity while learning. </p>
 
         <p>We understand the significance of the projects and envisioned creating a global hub for any school and college project needs. Our project methodology is unique. Every student will have a mentor to monitor and guide the student. The mentor will help the students to find the problem statement, aim, methodology, expected outcomes and timeline. Our internet platform will allow the students and mentors to connect online and manage the whole project work online. We also have an offline mode. Students and mentors can meet and perform the projects in our centres. </p>
       </div>
-      <div class="two_quarter">
+      <div class="col-lg-6 col-md-12 col-sm-12">
               <img class="imgstyle" src="/wp-content/uploads/2021/10/5a-1.jpg">
       </div>
       </div>
@@ -31,10 +31,10 @@ get_header();
   <div class="wrapper row3">
     <div class="hoc page-container clear"> 
       <div class="content about_align"> 
-      <div class="two_quarter">
+      <div class="col-lg-6 col-md-12 col-sm-12">
           <img class="imgstyle" src="/wp-content/uploads/2021/10/5.2.2b-1.jpg">
       </div>
-      <div class="two_quarter page-content-align">
+      <div class="col-lg-6 col-md-12 col-sm-12 page-content-align">
         <p>We support the students with hardware & software needs, research laboratory needs and publishing journals and articles. Our state of the art Special Research Lab access will give a comprehensive lab facility to the students. Students can learn the skill needed to complete the project using our course platform. We also have an internship platform where a novice with basic knowledge will be eager to participate in projects. These interns shall assign to the project students to perform some portion of the project. Project guidance and support are applicable for school and college students. </p>
       </div>
 
@@ -48,11 +48,11 @@ get_header();
             <div class="hoc page-container clear"> 
                   <h2 class="h2-tilte-align m-b-lg " style="text-align:center;">College Project</h2>
                   <div class="content about_align"> 
-                      <div class="two_quarter page-content-align">
+                      <div class="col-lg-6 col-md-12 col-sm-12 page-content-align">
                           <p>Richard Branson once said, "The best way of learning about anything is by doing." The project works in college is always an exciting thing to DO for a student. We support all college project needs for UG, PG and PhD. We support all the domains in Arts, Science, Engineering, Education, Management, Agriculture, Animal Husbandry, Medical and Allied Sciences. </p>
                           <p>We also offer comprehensive Research Support and Services for PhD scholars across all domains. We have international connections and MoUs with leading Journal Publishers, such as Athenaeum Publishers, Elsevier, Springer, etc. Our international high-level expert team with interns and mentors shall support the PhD scholars with every need in all phases of the research work. </p>
                       </div>
-                      <div class="two_quarter">
+                      <div class="col-lg-6 col-md-12 col-sm-12">
                               <img class="imgstyle" src="/wp-content/uploads/2021/10/5.1.2a.jpg">
                       </div>
                   </div>
@@ -117,11 +117,11 @@ get_header();
   <div class="hoc page-container clear"> 
     <div class="content about_align"> 
     
-    <div class="two_quarter page-content-align">
+    <div class="col-lg-6 col-md-12 col-sm-12 page-content-align">
     <h6 class="heading">Science Project</h6>
     <p>We deal with all types of arts, science, engineering and technology projects involving electronic, electrical, renewable energy, physics, chemistry, biology, computer science, plastics, robotics, glass, clay, painting, etc. Every student will get one individual mentor throughout the project work. We teach the skills needed, supply all required hardware and manual for operating the hardware also with students. Upon completion of the projects, students can publish the works in blogs and social media pages.  Our science projects enable any student in the world to connect with any other students.  Students from 3rd grade shall participate in this project. </p>
     </div> 
-    <div class="two_quarter">
+    <div class="col-lg-6 col-md-12 col-sm-12">
             <img class="imgstyle" src="/wp-content/uploads/2021/10/5.2.1a-2.jpg">
     </div>
     </div>
@@ -131,10 +131,10 @@ get_header();
 <div class="wrapper row3">
   <div class="hoc page-container clear"> 
     <div class="content about_align"> 
-    <div class="two_quarter">
+    <div class="col-lg-6 col-md-12 col-sm-12">
             <img class="imgstyle" src="/wp-content/uploads/2021/10/5.2.2a-1.jpg">
     </div>
-    <div class="two_quarter page-content-align">
+    <div class="col-lg-6 col-md-12 col-sm-12 page-content-align">
     <h6 class="heading">Mathematics Projects</h6>
     <p>Our mathematics projects involve both hardware and software elements. We carefully designed the projects for enriching the mathematical application-oriented learning among student communities. Our pool of experts across the globe will offer the state of the art project experience to students. Our project topics involve exciting applications, such as the application of matrix, differentiation, integration, vectors, complex numbers, numerical methods, statistics, probability, etc. We have mathematics projects from elementary to higher secondary students. </p>
     </div> 
@@ -147,11 +147,11 @@ get_header();
   <div class="hoc page-container clear"> 
     <div class="content about_align"> 
     
-    <div class="two_quarter page-content-align">
+    <div class="col-lg-6 col-md-12 col-sm-12 page-content-align">
     <h6 class="heading">Thermocol Projects</h6>
     <p>Thermocol projects will be used for building the structures, elements and other prototypes of any mathematics, arts, craft and science project. Most of the time thermocol projects shall be a compliment for arts, science and mathematics. We have thermocol projects from elementary to higher secondary students. </p>
     </div> 
-    <div class="two_quarter">
+    <div class="col-lg-6 col-md-12 col-sm-12">
             <img class="imgstyle" src="/wp-content/uploads/2021/10/5.2.3a-1.jpg">
     </div>
     </div>
@@ -161,10 +161,10 @@ get_header();
 <div class="wrapper row3">
   <div class="hoc page-container clear"> 
     <div class="content about_align"> 
-    <div class="two_quarter">
+    <div class="col-lg-6 col-md-12 col-sm-12">
             <img class="imgstyle" src="/wp-content/uploads/2021/10/5.2.4a-1.jpg">
     </div>
-    <div class="two_quarter page-content-align">
+    <div class="col-lg-6 col-md-12 col-sm-12 page-content-align">
     <h6 class="heading">Cut Out Models</h6>
     <p>Cut out models is the activity that will enable the school kids to apply their creativity. As we know, the cognitive skills of a kid will be entirely different for kids, and the cutout model is the starting point for manifesting the kid's talent. Out creative and straightforward to do cut out models will be exciting and fun. </p>
     </div> 
