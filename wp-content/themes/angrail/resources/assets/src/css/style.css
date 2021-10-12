@@ -1378,18 +1378,26 @@ align-self: center;
 .foo-logo{
 width: 100px;
 }
+.footer-align{
+margin-top:6%;	
+}
+.home{
+	overflow-x:initial !important;
+}
 @media only screen and (max-width: 1024px) {
   .homepage_slide {
     flex-direction: column;
     align-items: center;
 }
-
-}
-@media only screen and (min-width: 992px) {
-.page-container .about_align{
+.about_align{
   display: flex;
+  flex-wrap: wrap;
+}
+.page-content-align{
+order: 2;
 }
 }
+
 @media only screen and (min-width: 767px) and (max-width: 1024px){
 #footer{
   display: flex;
@@ -1407,9 +1415,14 @@ width: 100px;
       border:none;
   }
 }
+@media only screen and (max-width: 1024px) {
+  .page-content-align{
+    margin-top: 5%;
+  }
+}
 @media only screen and (min-width: 1025px) {
 .footer-align{
-  height:410px !important;
+  height:440px !important;
 }
 #footer{
 display: flex;
@@ -1417,8 +1430,9 @@ display: flex;
 #footer .first{
   padding-right: 70px;
 }
-.foo_menu_align{
-column-count: 2;
+.page-container .about_align{
+  display: flex;
+  margin-bottom:3%
 }
 .foo_menu_align .menu-item-670{
   padding-bottom: 24px;

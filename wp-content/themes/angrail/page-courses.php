@@ -14,10 +14,10 @@ get_header();
 <div class="wrapper row3">
   <div class="hoc page-container clear"> 
     <div class="content about_align"> 
-    <div class="one_half">
+    <div class="col-lg-6 col-md-12 col-sm-12">
             <img class="imgstyle" src="/wp-content/uploads/2021/10/6-1.jpg">
     </div>
-    <div class="one_half page-content-align">
+    <div class="col-lg-6 col-md-12 col-sm-12 page-content-align">
     <p>For solving any real-world problem, one required in-depth knowledge of a specific subject. Our courses are the gateway for acquiring knowledge and skills. We offer online, offline and blended courses in trending topics across all domains such as arts, Science, Engineering, Education, Management, Agriculture, Animal Husbandry, Medical and Allied Sciences.</p>
     <p>We offer courses to school, college, PhD and industry professionals. Our online platform has live classes, learning management systems, gamified interactive learning, real-time problem solving, and so on. </p> 
     </div>
